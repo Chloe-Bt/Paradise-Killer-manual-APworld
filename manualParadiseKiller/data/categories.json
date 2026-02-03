@@ -1,0 +1,55 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
+  "Nebula Drinks": {
+    "yaml_option": [
+      "enable_nebula_drinks"
+    ]
+  },
+  "Shinji Locations": {
+    "yaml_option": [
+      "enables_shinji_locations"
+    ]
+  },
+  "whisky Bottles": {
+    "yaml_option": [
+      "enable_whisky_drinks"
+    ]
+  },
+  "Starlight Skins": {
+    "yaml_option": [
+      "enable_starlight_skins"
+    ]
+  },
+  "Island Momentos": {
+    "yaml_option": [
+      "enable_island_momentos"
+    ]
+  },
+  "Music Tracks": {
+    "yaml_option": [
+      "enable_music_tracks"
+    ]
+  },
+  "Shrines": {
+    "yaml_option": [
+      "enable_shrines"
+    ]
+  },
+  "Recordings": {
+    "yaml_option": [
+      "enable_recordings"
+    ]
+  },
+  "goal LSD": {
+    "hidden": true,
+    "yaml_option": [
+      "goal_lsd"
+    ]
+  },
+  "goal LWD": {
+    "hidden": true,
+    "yaml_option": [
+      "goal_lwd"
+    ]
+  }
+}

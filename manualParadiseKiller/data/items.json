@@ -1,0 +1,513 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "name": "Starlight Upgrade - Goat",
+      "category": [
+        "Starlight Upgrade"
+      ],
+      "progression": true,
+      "early": true
+    },
+    {
+      "name": "Starlight Upgrade - Cosmos",
+      "category": [
+        "Starlight Upgrade"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Starlight Upgrade - Worship",
+      "category": [
+        "Starlight Upgrade"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Starlight Upgrade - Pyramids",
+      "category": [
+        "Starlight Upgrade"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Nebula Drink - Angel Ward",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Indefinable Spectrum",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Parasol",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Cool Melon",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Acid's Favorite",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Lost Mountain Water",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Water",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Evening Haze",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Kill The Thirst",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Sanitea",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Crystal Sparkling Water",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - O.O.O.",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Dead Moon",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Blood Fountain",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Parallel Red",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Aethestic Water",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Tropical Demolition",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Pillar Flower",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Power of Goat Soda",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Statue Mind",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - The Elusive Chocolate",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Bizarre Lychee",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Provocative Flower",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula Drink": 1
+      }
+    },
+    {
+      "name": "Double Jump",
+      "category": [
+        "LLD upgrades"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Air Dash",
+      "category": [
+        "LLD upgrades"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Meditate",
+      "category": [
+        "LLD upgrades"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Unlock Judge",
+      "category": [
+        "Relationships"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Unlock Grand Marshal Akiko 14",
+      "category": [
+        "Relationships"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Unlock Carmelina Silence",
+      "category": [
+        "Relationships"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Unlock Crimson Acid",
+      "category": [
+        "Relationships"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Unlock Henry Division",
+      "category": [
+        "Relationships"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Unlock Lydia Day Break",
+      "category": [
+        "Relationships"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Unlock Sam Day Break",
+      "category": [
+        "Relationships"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Unlock The Witness To The End",
+      "category": [
+        "Relationships"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Unlock Yuri Night",
+      "category": [
+        "Relationships"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Unlock One Last Kiss",
+      "category": [
+        "Relationships"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Alcohol License",
+      "category": [
+        "Sphere Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Music Player",
+      "category": [
+        "Sphere Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Soda License",
+      "category": [
+        "Sphere Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "name": "whisky Bottle",
+      "category": [
+        "whisky Bottles"
+      ],
+      "filler": true
+    },
+    {
+      "name": "whisky Bottle - Hair Trigger Whisky",
+      "category": [
+        "whisky Bottles"
+      ],
+      "filler": true,
+      "value": {
+        "whisky Bottle": 1
+      }
+    },
+    {
+      "name": "whisky Bottle - Grinning Helper Whisky",
+      "category": [
+        "whisky Bottles"
+      ],
+      "filler": true,
+      "value": {
+        "whisky Bottle": 1
+      }
+    },
+    {
+      "name": "whisky Bottle - No Reality Whisky",
+      "category": [
+        "whisky Bottles"
+      ],
+      "filler": true,
+      "value": {
+        "whisky Bottle": 1
+      }
+    },
+    {
+      "name": "whisky Bottle - An Answer Lost Whisky",
+      "category": [
+        "whisky Bottles"
+      ],
+      "filler": true,
+      "value": {
+        "whisky Bottle": 1
+      }
+    },
+    {
+      "name": "whisky Bottle - Chaos Domain Whisky",
+      "category": [
+        "whisky Bottles"
+      ],
+      "filler": true,
+      "value": {
+        "whisky Bottle": 1
+      }
+    },
+    {
+      "name": "whisky Bottle - A Gothic Second Whisky",
+      "category": [
+        "whisky Bottles"
+      ],
+      "filler": true,
+      "value": {
+        "whisky Bottle": 1
+      }
+    },
+    {
+      "name": "whisky Bottle - Winning Devil Whisky",
+      "category": [
+        "whisky Bottles"
+      ],
+      "filler": true,
+      "value": {
+        "whisky Bottle": 1
+      }
+    },
+    {
+      "name": "whisky Bottle - Evening Melancholy Whisky",
+      "category": [
+        "whisky Bottles"
+      ],
+      "filler": true,
+      "value": {
+        "whisky Bottle": 1
+      }
+    },
+    {
+      "name": "whisky Bottle - Code Whisky",
+      "category": [
+        "whisky Bottles"
+      ],
+      "filler": true,
+      "value": {
+        "whisky Bottle": 1
+      }
+    },
+    {
+      "name": "whisky Bottle - Dead Man's Ambitious Whisky",
+      "category": [
+        "whisky Bottles"
+      ],
+      "filler": true,
+      "value": {
+        "whisky Bottle": 1
+      }
+    },
+    {
+      "name": "whisky Bottle - No Warning Whisky",
+      "category": [
+        "whisky Bottles"
+      ],
+      "filler": true,
+      "value": {
+        "whisky Bottle": 1
+      }
+    },
+    {
+      "name": "whisky Bottle - Seven Spies Whisky",
+      "category": [
+        "whisky Bottles"
+      ],
+      "filler": true,
+      "value": {
+        "whisky Bottle": 1
+      }
+    },
+    {
+      "name": "whisky Bottle - Mikami's Masterpiece 4 Whisky",
+      "category": [
+        "whisky Bottles"
+      ],
+      "filler": true,
+      "value": {
+        "whisky Bottle": 1
+      }
+    }
+  ]
+}

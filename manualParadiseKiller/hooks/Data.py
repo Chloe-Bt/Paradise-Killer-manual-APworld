@@ -34,7 +34,7 @@ def after_load_category_file(category_table: dict) -> dict:
 def after_load_option_file(option_table: dict) -> dict:
     # option_table["core"] is the dictionary of modification of existing options
     # option_table["user"] is the dictionary of custom options
-    return option_table
+        return option_table
 
 # called after the meta.json file has been loaded and just before the properties of the apworld are defined. You can use this hook to change what is displayed on the webhost
 # for more info check https://github.com/ArchipelagoMW/Archipelago/blob/main/docs/world%20api.md#webworld-class

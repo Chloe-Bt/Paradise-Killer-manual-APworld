@@ -1,0 +1,60 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.options.schema.json",
+  "user": {
+    "start_starlight_goat": {
+      "display_name": "Start With Starlight Upgrade Goat",
+      "type": "Toggle",
+      "default": false,
+      "group": "Starting Items",
+      "description": [
+        "Whether or not you start with the Starlight Computer + goat upgrade, prevents early softlock"
+      ]
+    },
+    "number_nebula_drinks": {
+      "display_name": "How many Nebula Drinks to collect",
+      "type": "Range",
+      "default": 20,
+      "range_start": 5,
+      "range_end": 23,
+      "group": "Archipelago Length",
+      "description": [
+        "How many Nebula Drinks to find before winning your game."
+      ]
+    },
+    "number_whisky_bottles": {
+      "display_name": "How many whisky Bottles to collect",
+      "type": "Range",
+      "default": 10,
+      "range_start": 5,
+      "range_end": 13,
+      "group": "Archipelago Length",
+      "description": [
+        "How many whisky Bottles to find before winning your game."
+      ]
+    },
+    "goal_lsd": {
+      "type": "Toggle",
+      "default": false,
+      "hidden": true
+    },
+    "goal_lwd": {
+      "type": "Toggle",
+      "default": false,
+      "hidden": true
+    },
+    "enable_whisky_drinks": {
+      "type": "Toggle",
+      "default": true
+    },
+    "enable_whisky_drinks_f": {
+      "type": "Toggle",
+      "default": false,
+      "hidden": true
+    },
+    "enable_whisky_drinks_p": {
+      "type": "Toggle",
+      "default": false,
+      "hidden": true
+    }
+  }
+}

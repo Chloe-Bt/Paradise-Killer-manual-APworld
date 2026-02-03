@@ -1,0 +1,159 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "Agri Fields": {
+    "connects_to": [
+      "Beach",
+      "Deep Factory Entrance",
+      "Reality Folding Drive"
+    ]
+  },
+  "Beach": {
+    "connects_to": [
+      "Danchi",
+      "Citizen Housing",
+      "Agri Fields"
+    ]
+  },
+  "Citizen Apartments": {
+    "connects_to": [
+      "Citizen Housing",
+      "Danchi",
+      "Desolation Cell",
+      "Gardens"
+    ]
+  },
+  "Citizen Housing": {
+    "connects_to": [
+      "Beach",
+      "Citizen Apartments",
+      "Danchi",
+      "Mountain Gorge",
+      "Dead Zone",
+      "Tunnel"
+    ]
+  },
+  "Council Building": {
+    "connects_to": [
+      "Syndicate HQ"
+    ]
+  },
+  "Court House": {
+    "connects_to": [
+      "Mountain Gorge",
+      "Syndicate HQ"
+    ]
+  },
+  "Danchi": {
+    "connects_to": [
+      "Beach",
+      "Citizen Housing",
+      "Citizen Apartments"
+    ]
+  },
+  "Dead Zone": {
+    "connects_to": [
+      "Mountain Gorge",
+      "Citizen Housing"
+    ]
+  },
+  "Deep Factory Entrance": {
+    "connects_to": [
+      "Agri Fields",
+      "Mountain Gorge"
+    ]
+  },
+  "Desolation Cell": {
+    "connects_to": [
+      "Citizen Apartments"
+    ]
+  },
+  "Gardens": {
+    "connects_to": [
+      "Citizen Apartments",
+      "Syndicate Apartments"
+    ]
+  },
+  "Idle Lands": {
+    "starting": true,
+    "exit_requires": {
+      "Paradise Gates" : "|Starlight Upgrade - Goat|"
+    },
+    "connects_to": [
+      "Paradise Gates"
+    ]
+  },
+  "K. HX's Workshop": {
+    "connects_to": [
+      "Mountain Gorge"
+    ]
+  },
+  "Marshal Barracks": {
+    "connects_to": [
+      "Syndicate HQ"
+    ]
+  },
+  "Mountain Gorge": {
+    "connects_to": [
+      "Citizen Housing",
+      "Court House",
+      "Dead Zone",
+      "Deep Factory Entrance",
+      "K. HX's Workshop",
+      "Opulent Ziggurat"
+    ]
+  },
+  "Opulent Ziggurat": {
+    "connects_to": [
+      "Mountain Gorge",
+      "Syndicate Graveyard"
+    ]
+  },
+  "Paradise Gates": {
+    "connects_to": [
+      "Danchi"
+    ]
+  },
+  "Pyramid": {
+    "connects_to": [
+      "Doom Jazz's Yacht"
+    ]
+  },
+  "Reality Folding Drive": {
+    "connects_to": [
+      "Agri Fields",
+      "Tunnel"
+    ]
+  },
+  "Syndicate Apartments": {
+    "connects_to": [
+      "Gardens",
+      "Syndicate HQ"
+    ]
+  },
+  "Syndicate Graveyard": {
+    "connects_to": [
+      "Opulent Ziggurat"
+    ]
+  },
+  "Syndicate HQ": {
+    "connects_to": [
+      "Council Building",
+      "Court House",
+      "Marshal Barracks",
+      "Syndicate Apartments",
+      "Doom Jazz's Yacht"
+    ]
+  },
+  "Tunnel": {
+    "connects_to": [
+      "Citizen Housing",
+      "Reality Folding Drive"
+    ]
+  },
+  "Doom Jazz's Yacht": {
+    "connects_to": [
+      "Syndicate HQ",
+      "Pyramid"
+    ]
+  }
+}

@@ -1,7 +1,7 @@
 # Object classes from AP core, to represent an entire MultiWorld and this individual World that's part of it
 from typing import Any
 from worlds.AutoWorld import World
-from BaseClasses import MultiWorld, CollectionState, Item
+from BaseClasses import MultiWorld, CollectionState, Item, ItemClassification
 
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
@@ -42,6 +42,25 @@ def before_generate_early(world: World, multiworld: MultiWorld, player: int) -> 
     This is the earliest hook called during generation, before anything else is done.
     Use it to check or modify incompatible options, or to set up variables for later use.
     """
+    options = world.options
+
+    if options.enable_whisky_drinks.value:
+        options.enable_whisky_drinks_f.value = True
+
+    match options.goal.value:
+        case 0: #Lady Soda Dies ending
+            print("You choose the Lady Soda Dies ending")
+            options.goal_lsd.value = True
+            options.enable_nebula_drinks.value = True
+        case 1: #Lady whisky Dies ending
+            print("You choose the Lady whisky Dies ending")
+            options.goal_lwd.value = True
+            options.enable_whisky_drinks.value = True
+            options.enable_whisky_drinks_p.value = True
+            options.enable_whisky_drinks_f.value = False
+        case _:
+            print("You picked a non-existing goal somehow?")
+
     pass
 
 # Called before regions and locations are created. Not clear why you'd want this, but it's here. Victory location is included, but Victory event is not placed yet.
@@ -102,6 +121,16 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
 
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
+
+    for item in item_pool:
+        if item.name.startswith("Whisky Bottle"):
+            
+            if world.options.enable_whisky_drinks_p.value:
+                item.classification = ItemClassification.progression
+
+            elif world.options.enable_whisky_drinks_f.value:
+                item.classification = ItemClassification.filler
+
     return item_pool
 
 # Called before rules for accessing regions and locations are created. Not clear why you'd want this, but it's here.
