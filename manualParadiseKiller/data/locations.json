@@ -7,7 +7,7 @@
         "Nebula Drinks"
       ],
       "region": "Syndicate HQ",
-      "requires": "|Soda License|"
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
       "name": "Nebula Drink - Indefinable Spectrum",
@@ -15,7 +15,7 @@
         "Nebula Drinks"
       ],
       "region": "Gardens",
-      "requires": "|Soda License|"
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
       "name": "Nebula Drink - Parasol",
@@ -23,7 +23,7 @@
         "Nebula Drinks"
       ],
       "region": "Gardens",
-      "requires": "|Soda License|"
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
       "name": "Nebula Drink - Cool Melon",
@@ -31,7 +31,7 @@
         "Nebula Drinks"
       ],
       "region": "Citizen Apartments",
-      "requires": "|Soda License|"
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
       "name": "Nebula Drink - Acid's Favorite",
@@ -39,7 +39,7 @@
         "Nebula Drinks"
       ],
       "region": "Citizen Apartments",
-      "requires": "|Soda License|"
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
       "name": "Nebula Drink - Lost Mountain Water",
@@ -47,7 +47,7 @@
         "Nebula Drinks"
       ],
       "region": "Citizen Apartments",
-      "requires": "|Soda License|"
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
       "name": "Nebula Drink - Water",
@@ -55,7 +55,7 @@
         "Nebula Drinks"
       ],
       "region": "Citizen Apartments",
-      "requires": "|Soda License|"
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
       "name": "Nebula Drink - Evening Haze",
@@ -63,7 +63,7 @@
         "Nebula Drinks"
       ],
       "region": "Citizen Apartments",
-      "requires": "|Soda License|"
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
       "name": "Nebula Drink - Kill The Thirst",
@@ -71,7 +71,7 @@
         "Nebula Drinks"
       ],
       "region": "Citizen Apartments",
-      "requires": "|Soda License|"
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
       "name": "Nebula Drink - Sanitea",
@@ -79,7 +79,7 @@
         "Nebula Drinks"
       ],
       "region": "Citizen Housing",
-      "requires": "|Soda License|"
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
       "name": "Nebula Drink - Crystal Sparkling Water",
@@ -87,7 +87,7 @@
         "Nebula Drinks"
       ],
       "region": "Citizen Housing",
-      "requires": "|Soda License|"
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
       "name": "Nebula Drink - O.O.O.",
@@ -95,7 +95,7 @@
         "Nebula Drinks"
       ],
       "region": "Citizen Housing",
-      "requires": "|Soda License|"
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
       "name": "Nebula Drink - Dead Moon",
@@ -103,7 +103,7 @@
         "Nebula Drinks"
       ],
       "region": "Mountain Gorge",
-      "requires": "|Soda License|"
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
       "name": "Nebula Drink - Blood Fountain",
@@ -111,7 +111,7 @@
         "Nebula Drinks"
       ],
       "region": "Dead Zone",
-      "requires": "|Soda License|"
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
       "name": "Nebula Drink - Parallel Red",
@@ -119,7 +119,7 @@
         "Nebula Drinks"
       ],
       "region": "Danchi",
-      "requires": "|Soda License|"
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
       "name": "Nebula Drink - Aethestic Water",
@@ -127,7 +127,7 @@
         "Nebula Drinks"
       ],
       "region": "Danchi",
-      "requires": "|Soda License|"
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
       "name": "Nebula Drink - Tropical Demolition",
@@ -135,7 +135,7 @@
         "Nebula Drinks"
       ],
       "region": "Danchi",
-      "requires": "|Soda License|"
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
       "name": "Nebula Drink - Pillar Flower",
@@ -143,7 +143,7 @@
         "Nebula Drinks"
       ],
       "region": "Beach",
-      "requires": "|Soda License|"
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
       "name": "Nebula Drink - Power of Goat Soda",
@@ -151,7 +151,7 @@
         "Nebula Drinks"
       ],
       "region": "Beach",
-      "requires": "|Soda License|"
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
       "name": "Nebula Drink - Statue Mind",
@@ -159,7 +159,7 @@
         "Nebula Drinks"
       ],
       "region": "Opulent Ziggurat",
-      "requires": "|Soda License|"
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
       "name": "Nebula Drink - The Elusive Chocolate",
@@ -167,7 +167,7 @@
         "Nebula Drinks"
       ],
       "region": "Syndicate Graveyard",
-      "requires": "|Soda License|"
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
       "name": "Nebula Drink - Bizarre Lychee",
@@ -175,7 +175,7 @@
         "Nebula Drinks"
       ],
       "region": "Agri Fields",
-      "requires": "|Soda License|"
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
       "name": "Nebula Drink - Provocative Flower",
@@ -183,7 +183,7 @@
         "Nebula Drinks"
       ],
       "region": "Reality Folding Drive",
-      "requires": "|Soda License|"
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
       "name": "Foot Bath - Syndicate HQ",
@@ -814,7 +814,7 @@
         "Music Tracks"
       ],
       "region": "Syndicate HQ",
-      "requires": "|Music Player|"
+      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
     },
     {
       "name": "Radio Control Tower - End of the World",
@@ -822,7 +822,7 @@
         "Music Tracks"
       ],
       "region": "Syndicate HQ",
-      "requires": "|Music Player|"
+      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
     },
     {
       "name": "Radio Control Tower - To The Heart",
@@ -830,7 +830,7 @@
         "Music Tracks"
       ],
       "region": "Council Building",
-      "requires": "|Music Player|"
+      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
     },
     {
       "name": "Radio Control Tower - Midori Eyes",
@@ -838,7 +838,7 @@
         "Music Tracks"
       ],
       "region": "Mountain Gorge",
-      "requires": "|Music Player|"
+      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
     },
     {
       "name": "Radio Control Tower - Lady Blue",
@@ -846,7 +846,7 @@
         "Music Tracks"
       ],
       "region": "Citizen Apartments",
-      "requires": "|Music Player|"
+      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
     },
     {
       "name": "Radio Control Tower - Sunset Song",
@@ -854,7 +854,7 @@
         "Music Tracks"
       ],
       "region": "Citizen Apartments",
-      "requires": "|Music Player|"
+      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
     },
     {
       "name": "Radio Control Tower - Last Dance XX",
@@ -862,7 +862,7 @@
         "Music Tracks"
       ],
       "region": "Citizen Apartments",
-      "requires": "|Music Player|"
+      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
     },
     {
       "name": "Radio Control Tower - Ego 24-7",
@@ -870,7 +870,7 @@
         "Music Tracks"
       ],
       "region": "Citizen Apartments",
-      "requires": "|Music Player|"
+      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
     },
     {
       "name": "Radio Control Tower - 8th Street Rose",
@@ -878,7 +878,7 @@
         "Music Tracks"
       ],
       "region": "Citizen Housing",
-      "requires": "|Music Player|"
+      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
     },
     {
       "name": "Radio Control Tower - House of Bliss",
@@ -886,7 +886,7 @@
         "Music Tracks"
       ],
       "region": "Citizen Housing",
-      "requires": "|Music Player|"
+      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
     },
     {
       "name": "Radio Control Tower - The Lemegeton Bop",
@@ -894,7 +894,7 @@
         "Music Tracks"
       ],
       "region": "Danchi",
-      "requires": "|Music Player|"
+      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
     },
     {
       "name": "Radio Control Tower - Unlimited∞Luv",
@@ -902,7 +902,7 @@
         "Music Tracks"
       ],
       "region": "Danchi",
-      "requires": "|Music Player|"
+      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
     },
     {
       "name": "Radio Control Tower - Headlights on the Shore",
@@ -910,7 +910,7 @@
         "Music Tracks"
       ],
       "region": "Beach",
-      "requires": "|Music Player|"
+      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
     },
     {
       "name": "Radio Control Tower - About That...",
@@ -918,7 +918,7 @@
         "Music Tracks"
       ],
       "region": "K. HX's Workshop",
-      "requires": "|Music Player|"
+      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
     },
     {
       "name": "Radio Control Tower - Go! Go! Style",
@@ -926,7 +926,7 @@
         "Music Tracks"
       ],
       "region": "Agri Fields",
-      "requires": "|Music Player|"
+      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
     },
     {
       "name": "Radio Control Tower - Citizen Apartments",
@@ -934,175 +934,199 @@
         "Music Tracks"
       ],
       "region": "Reality Folding Drive",
-      "requires": "|Music Player|"
+      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
     },
     {
       "name": "Shinji - Court House",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Court House"
+      "region": "Court House",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Syndicate HQ 1",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Syndicate HQ"
+      "region": "Syndicate HQ",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Syndicate HQ 2",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Syndicate HQ"
+      "region": "Syndicate HQ",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Syndicate HQ 3",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Syndicate HQ"
+      "region": "Syndicate HQ",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Council Building 1",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Council Building"
+      "region": "Council Building",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Council Building 2",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Council Building"
+      "region": "Council Building",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Council Building 3",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Council Building"
+      "region": "Council Building",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Gardens 1",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Gardens"
+      "region": "Gardens",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Citizen Housing 1",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Citizen Housing"
+      "region": "Citizen Housing",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Citizen Housing 2",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Citizen Housing"
+      "region": "Citizen Housing",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Citizen Housing 3",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Citizen Housing"
+      "region": "Citizen Housing",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Citizen Housing 4",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Citizen Housing"
+      "region": "Citizen Housing",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Citizen Housing 5",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Citizen Housing"
+      "region": "Citizen Housing",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Citizen Housing 6",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Citizen Housing"
+      "region": "Citizen Housing",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Citizen Housing 7",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Citizen Housing"
+      "region": "Citizen Housing",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Dead Zone",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Dead Zone"
+      "region": "Dead Zone",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Citizen Apartments 1",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Citizen Apartments"
+      "region": "Citizen Apartments",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Citizen Apartments 2",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Citizen Apartments"
+      "region": "Citizen Apartments",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Citizen Apartments 3",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Citizen Apartments"
+      "region": "Citizen Apartments",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Citizen Apartments 4",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Citizen Apartments"
+      "region": "Citizen Apartments",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Citizen Apartments 5",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Citizen Apartments"
+      "region": "Citizen Apartments",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Citizen Apartments 6",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Citizen Apartments"
+      "region": "Citizen Apartments",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Citizen Apartments 7",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Citizen Apartments"
+      "region": "Citizen Apartments",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Citizen Apartments 8",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Citizen Apartments"
+      "region": "Citizen Apartments",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Citizen Apartments 9",
@@ -1110,154 +1134,175 @@
         "Shinji Locations"
       ],
       "region": "Citizen Apartments",
-      "requires": "|Double Jump|"
+      "requires": "|Double Jump| AND ( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Mountain Gorge 1",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Mountain Gorge"
+      "region": "Mountain Gorge",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Mountain Gorge 2",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Mountain Gorge"
+      "region": "Mountain Gorge",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Mountain Gorge 3",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Mountain Gorge"
+      "region": "Mountain Gorge",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Mountain Gorge 4",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Mountain Gorge"
+      "region": "Mountain Gorge",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Deep Factory Entrance 1",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Deep Factory Entrance"
+      "region": "Deep Factory Entrance",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Deep Factory Entrance 2",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Deep Factory Entrance"
+      "region": "Deep Factory Entrance",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Deep Factory Entrance 3",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Deep Factory Entrance"
+      "region": "Deep Factory Entrance",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Danchi 1",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Danchi"
+      "region": "Danchi",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Danchi 2",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Danchi"
+      "region": "Danchi",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Danchi 3",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Danchi"
+      "region": "Danchi",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Danchi 4",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Danchi"
+      "region": "Danchi",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Danchi 5",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Danchi"
+      "region": "Danchi",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Danchi 6",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Danchi"
+      "region": "Danchi",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Danchi 7",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Danchi"
+      "region": "Danchi",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Beach 1",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Beach"
+      "region": "Beach",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Beach 2",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Beach"
+      "region": "Beach",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Opulent Ziggurat 1",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Opulent Ziggurat"
+      "region": "Opulent Ziggurat",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Syndicate Graveyard",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Syndicate Graveyard"
+      "region": "Syndicate Graveyard",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Agri Fields 1",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Agri Fields"
+      "region": "Agri Fields",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Agri Fields 2",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Agri Fields"
+      "region": "Agri Fields",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Reality Folding Drive 1",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Reality Folding Drive"
+      "region": "Reality Folding Drive",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Reality Folding Drive 2",
@@ -1265,14 +1310,15 @@
         "Shinji Locations"
       ],
       "region": "Reality Folding Drive",
-      "requires": "|Double Jump|"
+      "requires": "|Double Jump| AND ( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Pyramid 1",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Pyramid"
+      "region": "Pyramid",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Recording 001",
@@ -1443,108 +1489,108 @@
       "region": "Opulent Ziggurat"
     },
     {
-      "name": "whisky Bottle - Hair Trigger Whisky",
+      "name": "Whisky Bottle - Hair Trigger Whisky",
       "category": [
         "Whisky Bottles"
       ],
       "region": "Paradise Gates",
-      "requires": "|Alcohol License|"
+      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
     },
     {
-      "name": "whisky Bottle - Grinning Helper Whisky",
+      "name": "Whisky Bottle - Grinning Helper Whisky",
       "category": [
         "Whisky Bottles"
       ],
       "region": "Council Building",
-      "requires": "|Alcohol License|"
+      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
     },
     {
-      "name": "whisky Bottle - No Reality Whisky",
+      "name": "Whisky Bottle - No Reality Whisky",
       "category": [
         "Whisky Bottles"
       ],
       "region": "Citizen Apartments",
-      "requires": "|Alcohol License|"
+      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
     },
     {
-      "name": "whisky Bottle - An Answer Lost Whisky",
+      "name": "Whisky Bottle - An Answer Lost Whisky",
       "category": [
         "Whisky Bottles"
       ],
       "region": "Citizen Housing",
-      "requires": "|Alcohol License|"
+      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
     },
     {
-      "name": "whisky Bottle - Chaos Domain Whisky",
+      "name": "Whisky Bottle - Chaos Domain Whisky",
       "category": [
         "Whisky Bottles"
       ],
       "region": "Citizen Housing",
-      "requires": "|Alcohol License|"
+      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
     },
     {
-      "name": "whisky Bottle - A Gothic Second Whisky",
+      "name": "Whisky Bottle - A Gothic Second Whisky",
       "category": [
         "Whisky Bottles"
       ],
       "region": "Citizen Housing",
-      "requires": "|Alcohol License|"
+      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
     },
     {
-      "name": "whisky Bottle - Winning Devil Whisky",
+      "name": "Whisky Bottle - Winning Devil Whisky",
       "category": [
         "Whisky Bottles"
       ],
       "region": "Dead Zone",
-      "requires": "|Alcohol License|"
+      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
     },
     {
-      "name": "whisky Bottle - Evening Melancholy Whisky",
+      "name": "Whisky Bottle - Evening Melancholy Whisky",
       "category": [
         "Whisky Bottles"
       ],
       "region": "Danchi",
-      "requires": "|Alcohol License|"
+      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
     },
     {
-      "name": "whisky Bottle - Code Whisky",
+      "name": "Whisky Bottle - Code Whisky",
       "category": [
         "Whisky Bottles"
       ],
       "region": "Beach",
-      "requires": "|Alcohol License|"
+      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
     },
     {
-      "name": "whisky Bottle - Dead Man's Ambitious Whisky",
+      "name": "Whisky Bottle - Dead Man's Ambitious Whisky",
       "category": [
         "Whisky Bottles"
       ],
       "region": "Mountain Gorge",
-      "requires": "|Alcohol License|"
+      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
     },
     {
-      "name": "whisky Bottle - No Warning Whisky",
+      "name": "Whisky Bottle - No Warning Whisky",
       "category": [
         "Whisky Bottles"
       ],
       "region": "K. HX's Workshop",
-      "requires": "|Alcohol License|"
+      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
     },
     {
-      "name": "whisky Bottle - Seven Spies Whisky",
+      "name": "Whisky Bottle - Seven Spies Whisky",
       "category": [
         "Whisky Bottles"
       ],
       "region": "Agri Fields",
-      "requires": "|Alcohol License|"
+      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
     },
     {
-      "name": "whisky Bottle - Mikami's Masterpiece 4 Whisky",
+      "name": "Whisky Bottle - Mikami's Masterpiece 4 Whisky",
       "category": [
         "Whisky Bottles"
       ],
       "region": "Reality Folding Drive",
-      "requires": "|Alcohol License|"
+      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
     },
     {
       "name": "Meet Judge",
@@ -1629,17 +1675,17 @@
     {
       "name": "Lady Soda Dies",
       "category": [
-        "goal LSD"
+        "victory"
       ],
       "requires": "{OptionCount(@Nebula Drinks, number_nebula_drinks)}",
       "victory": true
     },
     {
-      "name": "Lady whisky Dies",
+      "name": "Lady Whisky Dies",
       "category": [
-        "goal LWD"
+        "victory"
       ],
-      "requires": "{OptionCount(@whisky Bottles, number_whisky_bottles)}",
+      "requires": "{OptionCount(@Whisky Bottles, number_whisky_bottles)}",
       "victory": true
     }
   ]

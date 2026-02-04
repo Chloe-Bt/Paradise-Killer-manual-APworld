@@ -10,7 +10,7 @@
       "enables_shinji_locations"
     ]
   },
-  "whisky Bottles": {
+  "Whisky Bottles": {
     "yaml_option": [
       "enable_whisky_drinks"
     ]
@@ -38,18 +38,6 @@
   "Recordings": {
     "yaml_option": [
       "enable_recordings"
-    ]
-  },
-  "goal LSD": {
-    "hidden": true,
-    "yaml_option": [
-      "goal_lsd"
-    ]
-  },
-  "goal LWD": {
-    "hidden": true,
-    "yaml_option": [
-      "goal_lwd"
     ]
   }
 }

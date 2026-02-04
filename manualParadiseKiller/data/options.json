@@ -31,14 +31,14 @@
       ]
     },
     "number_whisky_bottles": {
-      "display_name": "How many whisky Bottles to collect",
+      "display_name": "How many Whisky Bottles to collect",
       "type": "Range",
       "default": 10,
       "range_start": 5,
       "range_end": 13,
       "group": "Archipelago Length",
       "description": [
-        "How many whisky Bottles to find before winning your game."
+        "How many Whisky Bottles to find before winning your game."
       ]
     },
     "enable_nebula_drinks": {
@@ -51,12 +51,12 @@
       ]
     },
     "enable_whisky_drinks": {
-      "display_name": "Whiskey Locations",
+      "display_name": "Whisky Locations",
       "type": "Toggle",
       "default": true,
       "group": "Randomizer Selection",
       "description": [
-        "Enables the Whiskey Botles as both items (filler) and locations, this option is forced to true and (progressive) if you selected the 'Lady Whiskey Dies' goal."
+        "Enables the Whisky Botles as both items (filler) and locations, this option is forced to true and (progressive) if you selected the 'Lady Whiskey Dies' goal."
       ]
     },
     "enables_shinji_locations": {

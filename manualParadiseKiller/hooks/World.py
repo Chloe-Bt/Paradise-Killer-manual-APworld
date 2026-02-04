@@ -50,12 +50,9 @@ def before_generate_early(world: World, multiworld: MultiWorld, player: int) -> 
     match options.goal.value:
         case 0: #Lady Soda Dies ending
             print("You choose the Lady Soda Dies ending")
-            options.goal_lsd.value = True
             options.enable_nebula_drinks.value = True
         case 1: #Lady whisky Dies ending
             print("You choose the Lady whisky Dies ending")
-            options.goal_lwd.value = True
-            options.enable_whisky_drinks.value = True
             options.enable_whisky_drinks_p.value = True
             options.enable_whisky_drinks_f.value = False
         case _:
@@ -121,7 +118,6 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
 
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
-
     for item in item_pool:
         if item.name.startswith("Whisky Bottle"):
             
@@ -130,7 +126,7 @@ def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, pl
 
             elif world.options.enable_whisky_drinks_f.value:
                 item.classification = ItemClassification.filler
-
+                
     return item_pool
 
 # Called before rules for accessing regions and locations are created. Not clear why you'd want this, but it's here.
