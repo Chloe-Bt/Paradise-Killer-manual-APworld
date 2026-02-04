@@ -539,21 +539,21 @@
       "progression": true
     },
     {
-      "name": "Apartement key (unlock the Citizen Apartments area)",
+      "name": "Apartement Key (unlock the Citizen Apartments area)",
       "category": [
         "Sphere Limiters"
       ],
       "progression": true
     },
     {
-      "name": "House key (unlock the Citizen Housing area)",
+      "name": "House Key (unlock the Citizen Housing area)",
       "category": [
         "Sphere Limiters"
       ],
       "progression": true
     },
     {
-      "name": "Council Building",
+      "name": "Syndicate Pamphlet (unlock the Council Building area)",
       "category": [
         "Sphere Limiters"
       ],
@@ -653,7 +653,7 @@
       "progression": true
     },
     {
-      "name": "Syndicate HQ",
+      "name": "Control Room Access (unlock the Syndicate HQ area)",
       "category": [
         "Sphere Limiters"
       ],
