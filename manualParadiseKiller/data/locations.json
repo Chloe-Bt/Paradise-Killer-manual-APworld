@@ -1445,7 +1445,7 @@
     {
       "name": "whisky Bottle - Hair Trigger Whisky",
       "category": [
-        "whisky Bottles"
+        "Whisky Bottles"
       ],
       "region": "Paradise Gates",
       "requires": "|Alcohol License|"
@@ -1453,7 +1453,7 @@
     {
       "name": "whisky Bottle - Grinning Helper Whisky",
       "category": [
-        "whisky Bottles"
+        "Whisky Bottles"
       ],
       "region": "Council Building",
       "requires": "|Alcohol License|"
@@ -1461,7 +1461,7 @@
     {
       "name": "whisky Bottle - No Reality Whisky",
       "category": [
-        "whisky Bottles"
+        "Whisky Bottles"
       ],
       "region": "Citizen Apartments",
       "requires": "|Alcohol License|"
@@ -1469,7 +1469,7 @@
     {
       "name": "whisky Bottle - An Answer Lost Whisky",
       "category": [
-        "whisky Bottles"
+        "Whisky Bottles"
       ],
       "region": "Citizen Housing",
       "requires": "|Alcohol License|"
@@ -1477,7 +1477,7 @@
     {
       "name": "whisky Bottle - Chaos Domain Whisky",
       "category": [
-        "whisky Bottles"
+        "Whisky Bottles"
       ],
       "region": "Citizen Housing",
       "requires": "|Alcohol License|"
@@ -1485,7 +1485,7 @@
     {
       "name": "whisky Bottle - A Gothic Second Whisky",
       "category": [
-        "whisky Bottles"
+        "Whisky Bottles"
       ],
       "region": "Citizen Housing",
       "requires": "|Alcohol License|"
@@ -1493,7 +1493,7 @@
     {
       "name": "whisky Bottle - Winning Devil Whisky",
       "category": [
-        "whisky Bottles"
+        "Whisky Bottles"
       ],
       "region": "Dead Zone",
       "requires": "|Alcohol License|"
@@ -1501,7 +1501,7 @@
     {
       "name": "whisky Bottle - Evening Melancholy Whisky",
       "category": [
-        "whisky Bottles"
+        "Whisky Bottles"
       ],
       "region": "Danchi",
       "requires": "|Alcohol License|"
@@ -1509,7 +1509,7 @@
     {
       "name": "whisky Bottle - Code Whisky",
       "category": [
-        "whisky Bottles"
+        "Whisky Bottles"
       ],
       "region": "Beach",
       "requires": "|Alcohol License|"
@@ -1517,7 +1517,7 @@
     {
       "name": "whisky Bottle - Dead Man's Ambitious Whisky",
       "category": [
-        "whisky Bottles"
+        "Whisky Bottles"
       ],
       "region": "Mountain Gorge",
       "requires": "|Alcohol License|"
@@ -1525,7 +1525,7 @@
     {
       "name": "whisky Bottle - No Warning Whisky",
       "category": [
-        "whisky Bottles"
+        "Whisky Bottles"
       ],
       "region": "K. HX's Workshop",
       "requires": "|Alcohol License|"
@@ -1533,7 +1533,7 @@
     {
       "name": "whisky Bottle - Seven Spies Whisky",
       "category": [
-        "whisky Bottles"
+        "Whisky Bottles"
       ],
       "region": "Agri Fields",
       "requires": "|Alcohol License|"
@@ -1541,7 +1541,7 @@
     {
       "name": "whisky Bottle - Mikami's Masterpiece 4 Whisky",
       "category": [
-        "whisky Bottles"
+        "Whisky Bottles"
       ],
       "region": "Reality Folding Drive",
       "requires": "|Alcohol License|"
@@ -1629,7 +1629,7 @@
     {
       "name": "Lady Soda Dies",
       "category": [
-        "victory"
+        "goal LSD"
       ],
       "requires": "{OptionCount(@Nebula Drinks, number_nebula_drinks)}",
       "victory": true
@@ -1637,7 +1637,7 @@
     {
       "name": "Lady whisky Dies",
       "category": [
-        "victory"
+        "goal LWD"
       ],
       "requires": "{OptionCount(@whisky Bottles, number_whisky_bottles)}",
       "victory": true

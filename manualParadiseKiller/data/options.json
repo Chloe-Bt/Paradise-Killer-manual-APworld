@@ -10,6 +10,15 @@
         "Whether or not you start with the Starlight Computer + goat upgrade, prevents early softlock"
       ]
     },
+    "start_early_locations": {
+      "display_name": "Start with early acces to Paradise gates & Danchi",
+      "type": "Toggle",
+      "default": false,
+      "group": "Starting Items",
+      "description": [
+        "Whether or not you start with acces to the games' first 2 areas, prevents early softlock"
+      ]
+    },
     "number_nebula_drinks": {
       "display_name": "How many Nebula Drinks to collect",
       "type": "Range",
@@ -32,6 +41,124 @@
         "How many whisky Bottles to find before winning your game."
       ]
     },
+    "enable_nebula_drinks": {
+      "display_name": "Nebula Drink Locations",
+      "type": "Toggle",
+      "default": true,
+      "group": "Randomizer Selection",
+      "description": [
+        "Enables Nebula Drinks as both items and locations, this option is forced to true if you selected the 'Lady Soda Dies' goal."
+      ]
+    },
+    "enable_whisky_drinks": {
+      "display_name": "Whiskey Locations",
+      "type": "Toggle",
+      "default": true,
+      "group": "Randomizer Selection",
+      "description": [
+        "Enables the Whiskey Botles as both items (filler) and locations, this option is forced to true and (progressive) if you selected the 'Lady Whiskey Dies' goal."
+      ]
+    },
+    "enables_shinji_locations": {
+      "display_name": "Shinji Locations",
+      "type": "Toggle",
+      "default": true,
+      "group": "Randomizer Selection",
+      "description": [
+        "Enables talking to Sjinji as locations."
+      ]
+    },
+    "enable_starlight_skins": {
+      "display_name": "Staright Skin Locations",
+      "type": "Toggle",
+      "default": true,
+      "group": "Randomizer Selection",
+      "description": [
+        "Enables unlocking fast travel points at each safe point as locations, as they always give you a starlight skin."
+      ]
+    },
+    "enable_island_momentos": {
+      "display_name": "Island Momento Locations",
+      "type": "Toggle",
+      "default": true,
+      "group": "Randomizer Selection",
+      "description": [
+        "Enables the Island Momento relics as both items (filler) and locations."
+      ]
+    },
+    "enable_music_tracks": {
+      "display_name": "Music Track Locations",
+      "type": "Toggle",
+      "default": true,
+      "group": "Randomizer Selection",
+      "description": [
+        "Enables the speakers throughout the island as locations."
+      ]
+    },
+    "enable_shrines": {
+      "display_name": "Shrine Locations",
+      "type": "Toggle",
+      "default": true,
+      "group": "Randomizer Selection",
+      "description": [
+        "Enables the various carvings of the gods as location and items (filler)."
+      ]
+    },
+    "enable_recordings": {
+      "display_name": "Recording Locations",
+      "type": "Toggle",
+      "default": true,
+      "group": "Randomizer Selection",
+      "description": [
+        "Enables the 4 recordings as items (filler) and locations."
+      ]
+    },
+    "enable_alcohol_license": {
+      "display_name": "Alcohol License",
+      "type": "Toggle",
+      "default": true,
+      "group": "Sphere limiters",
+      "description": [
+        "Enables a required key item before you are able to get checks from Whiskey Bottles"
+      ]
+    },
+    "enable_music_player": {
+      "display_name": "Music Player",
+      "type": "Toggle",
+      "default": true,
+      "group": "Sphere limiters",
+      "description": [
+        "Enables a require key item before yo uare able to get checks from the broadcasting towers on the island."
+      ]
+    },
+    "enable_soda_license": {
+      "display_name": "Soda License",
+      "type": "Toggle",
+      "default": true,
+      "group": "Sphere limiters",
+      "description": [
+        "Enables a required key item before you are able to get checks from the Nebula Drink vending machines."
+      ]
+    },
+    "enable_demon_translator": {
+      "display_name": "Demon Translator",
+      "type": "Toggle",
+      "default": true,
+      "group": "Sphere limiters",
+      "description": [
+        "Enables a required key item before you are able to get checks from talking to Sjinji."
+      ]
+    },
+    "enable_mapping_requirements": {
+      "display_name": "Overworld Inhibitor",
+      "type": "Toggle",
+      "default": true,
+      "group": "Sphere limiters",
+      "description": [
+        "Enables a required key item from each main map location before you are able to acces that map area checks.",
+        "Highly recommended to turn it on to prevent a massive sphere 1."
+      ]
+    },
     "goal_lsd": {
       "type": "Toggle",
       "default": false,
@@ -41,10 +168,6 @@
       "type": "Toggle",
       "default": false,
       "hidden": true
-    },
-    "enable_whisky_drinks": {
-      "type": "Toggle",
-      "default": true
     },
     "enable_whisky_drinks_f": {
       "type": "Toggle",

@@ -3,5 +3,9 @@
   "game": "Paradise Killer",
   "creator": "Caffeinated Moth",
   "filler_item_name": "Spend Blood Crystals",
-  "death_link": false
+  "death_link": false,
+  "starting_items": [
+    {"items": ["Starlight Upgrade - Goat"], "yaml_option": ["start_starlight_goat"]},
+    {"items": ["Fishing Rod (unlock the Danchi area)", "The great key (unlock the Paradise Gates area)"], "yaml_option": ["start_early_locations"]}
+  ]
 }

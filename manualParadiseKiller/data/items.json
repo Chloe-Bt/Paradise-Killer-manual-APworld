@@ -352,25 +352,12 @@
       "progression": true
     },
     {
-      "name": "Alcohol License",
+      "name": "Pet Bear-Chan in Citizen Housing",
       "category": [
-        "Sphere Unlock"
+        "Traps"
       ],
-      "progression": true
-    },
-    {
-      "name": "Music Player",
-      "category": [
-        "Sphere Unlock"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Soda License",
-      "category": [
-        "Sphere Unlock"
-      ],
-      "progression": true
+      "count": 10,
+      "trap": true
     },
     {
       "name": "whisky Bottle",
@@ -508,6 +495,176 @@
       "value": {
         "whisky Bottle": 1
       }
+    },
+    {
+      "name": "Alcohol License",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Music Player",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Soda License",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Demon Translator",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Farming Supplies (unlock the Agri Fields area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Beach Towel (unlock the Beach area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Apartement key (unlock the Citizen Apartments area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "House key (unlock the Citizen Housing area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Council Building",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "letter of jury duty (unlock the Court House area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Fishing Rod (unlock the Danchi area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true,
+      "early": true
+    },
+    {
+      "name": "Employee Card (unlock the Deep Factory Entrance area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Gardening supplies (unlock the Gardens area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "HX's spare keys (unlock the K. HX's Workshop area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Goat, no not that goat (unlock the Mountain Gorge area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Holy Scriptures (unlock the Opulent Ziggurat area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "The great key (unlock the Paradise Gates area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true,
+      "early": true
+    },
+    {
+      "name": "Jetsky (unlock the Pyramid area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Hard hat (unlock the Reality Folding Drive area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Secret Corridors",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Master key (unlock the Syndicate Apartments area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Syndicate tear (unlock the Syndicate Graveyard area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Syndicate HQ",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Doom Jazz's Yacht",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
     }
   ]
 }
