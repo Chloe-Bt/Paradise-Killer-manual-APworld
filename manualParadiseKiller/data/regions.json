@@ -1,6 +1,7 @@
 {
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
   "Agri Fields": {
+    "requires": "( |Farming Supplies (unlock the Agri Fields area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
       "Beach",
       "Deep Factory Entrance",
@@ -8,6 +9,7 @@
     ]
   },
   "Beach": {
+    "requires": "( |Beach Towel (unlock the Beach area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
       "Danchi",
       "Citizen Housing",
@@ -15,6 +17,7 @@
     ]
   },
   "Citizen Apartments": {
+    "requires": "( |Apartement Key (unlock the Citizen Apartments area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
       "Citizen Housing",
       "Danchi",
@@ -23,6 +26,7 @@
     ]
   },
   "Citizen Housing": {
+    "requires": "( |House Key (unlock the Citizen Housing area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
       "Beach",
       "Citizen Apartments",
@@ -33,17 +37,20 @@
     ]
   },
   "Council Building": {
+    "requires": "( |Syndicate Pamphlet (unlock the Council Building area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
       "Syndicate HQ"
     ]
   },
   "Court House": {
+    "requires": "( |letter of jury duty (unlock the Court House area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
       "Mountain Gorge",
       "Syndicate HQ"
     ]
   },
   "Danchi": {
+    "requires": "( |Fishing Rod (unlock the Danchi area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
       "Beach",
       "Citizen Housing",
@@ -57,6 +64,7 @@
     ]
   },
   "Deep Factory Entrance": {
+    "requires": "( |Employee Card (unlock the Deep Factory Entrance area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
       "Agri Fields",
       "Mountain Gorge"
@@ -68,6 +76,7 @@
     ]
   },
   "Gardens": {
+    "requires": "( |Gardening supplies (unlock the Gardens area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
       "Citizen Apartments",
       "Syndicate Apartments"
@@ -75,14 +84,15 @@
   },
   "Idle Lands": {
     "starting": true,
-    "exit_requires": {
-      "Paradise Gates" : "|Starlight Upgrade - Goat|"
-    },
     "connects_to": [
       "Paradise Gates"
-    ]
+    ],
+    "exit_requires": {
+      "Paradise Gates": "|Starlight Upgrade - Goat|"
+    }
   },
   "K. HX's Workshop": {
+    "requires": "( |HX's spare keys (unlock the K. HX's Workshop area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
       "Mountain Gorge"
     ]
@@ -93,6 +103,7 @@
     ]
   },
   "Mountain Gorge": {
+    "requires": "( |Goat, no not that goat (unlock the Mountain Gorge area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
       "Citizen Housing",
       "Court House",
@@ -103,39 +114,46 @@
     ]
   },
   "Opulent Ziggurat": {
+    "requires": "( |Holy Scriptures (unlock the Opulent Ziggurat area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
       "Mountain Gorge",
       "Syndicate Graveyard"
     ]
   },
   "Paradise Gates": {
+    "requires": "( |The great key (unlock the Paradise Gates area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
       "Danchi"
     ]
   },
   "Pyramid": {
+    "requires": "( |Jetsky (unlock the Pyramid area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
       "Doom Jazz's Yacht"
     ]
   },
   "Reality Folding Drive": {
+    "requires": "( |Hard hat (unlock the Reality Folding Drive area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
       "Agri Fields",
       "Tunnel"
     ]
   },
   "Syndicate Apartments": {
+    "requires": "( |Master key (unlock the Syndicate Apartments area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
       "Gardens",
       "Syndicate HQ"
     ]
   },
   "Syndicate Graveyard": {
+    "requires": "( |Syndicate tear (unlock the Syndicate Graveyard area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
       "Opulent Ziggurat"
     ]
   },
   "Syndicate HQ": {
+    "requires": "( |Control Room Access (unlock the Syndicate HQ area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
       "Council Building",
       "Court House",
