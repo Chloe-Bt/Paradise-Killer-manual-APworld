@@ -7,12 +7,6 @@ def zip_to_apworld():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     folder_path = os.path.join(script_dir, FOLDER_NAME)
 
-<<<<<<< HEAD
-    if not os.path.isdir(folder_path):
-        raise FileNotFoundError(f"Folder not found: {folder_path}")
-
-=======
->>>>>>> main
     zip_path = os.path.join(script_dir, FOLDER_NAME + ".zip")
     apworld_path = os.path.join(script_dir, FOLDER_NAME + ".apworld")
 
