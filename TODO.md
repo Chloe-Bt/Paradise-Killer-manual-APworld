@@ -3,14 +3,16 @@
 Because the google sheet template is annoying like that.
 
 "value": {
-        "Whiskey": 1,
+        "Whisky": 1,
         "Bottle": 1
       }
 
 "value": {
-        "Whiskey Bottle": 1
+        "Whisky Bottle": 1
       }
+
 -----
+      
 "value": {
         "Nebula": 1,
         "Drink": 1
@@ -31,7 +33,3 @@ Because the google sheet template is annoying like that.
 # Items
 
 # Logic
-## Entrances
-
-# Apworld dev
-- Make alcohol follow the rules for 
