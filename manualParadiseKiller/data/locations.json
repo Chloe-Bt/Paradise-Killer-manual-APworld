@@ -210,39 +210,12 @@
       "requires": "|Meditate|"
     },
     {
-      "name": "Wistful Photo",
-      "category": [
-        "Relics"
-      ],
-      "region": "Idle Lands"
-    },
-    {
-      "name": "Dulled Percolator",
-      "category": [
-        "Relics"
-      ],
-      "region": "Idle Lands"
-    },
-    {
-      "name": "Well-read Book",
-      "category": [
-        "Relics"
-      ],
-      "region": "Idle Lands"
-    },
-    {
-      "name": "Shinji - Idle Lands",
-      "category": [
-        "Shinji Locations"
-      ],
-      "region": "Idle Lands"
-    },
-    {
       "name": "Starlight Upgrade - Goat",
       "category": [
         "Starlight Upgrade"
       ],
-      "region": "Idle Lands"
+      "region": "Idle Lands",
+      "requires": "|Starlight Upgrade - Goat|"
     },
     {
       "name": "Starlight Upgrade - Cosmos",
@@ -259,6 +232,14 @@
       ],
       "region": "Deep Factory Entrance",
       "requires": "|@Nebula Drinks:10|"
+    },
+    {
+      "name": "Starlight Upgrade - Pyramids",
+      "category": [
+        "Starlight Upgrade"
+      ],
+      "region": "Reality Folding Drive",
+      "requires": "|Locker Code|"
     },
     {
       "name": "Starlight Skin - Symbols of Justice",
@@ -493,20 +474,6 @@
     },
     {
       "name": "Starlight Skin - Bathed Towers",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Danchi"
-    },
-    {
-      "name": "Starlight Skin - Dimensional Breakdown",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Danchi"
-    },
-    {
-      "name": "Starlight Skin - Ancient Battlefield",
       "category": [
         "Starlight Skins"
       ],
@@ -1321,6 +1288,13 @@
       "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
+      "name": "Shinji - Idle Lands",
+      "category": [
+        "Shinji Locations"
+      ],
+      "region": "Idle Lands"
+    },
+    {
       "name": "Recording 001",
       "category": [
         "Recordings"
@@ -1687,6 +1661,103 @@
       ],
       "requires": "{OptionCount(@Whisky Bottles, number_whisky_bottles)}",
       "victory": true
+    },
+    {
+      "name": "Protest Letter",
+      "category": [
+        "Relics"
+      ],
+      "region": "Agri Fields"
+    },
+    {
+      "name": "Wistful Photo",
+      "category": [
+        "Relics"
+      ],
+      "region": "Idle Lands"
+    },
+    {
+      "name": "Dulled Percolator",
+      "category": [
+        "Relics"
+      ],
+      "region": "Idle Lands"
+    },
+    {
+      "name": "Well-read Book",
+      "category": [
+        "Relics"
+      ],
+      "region": "Idle Lands"
+    },
+    {
+      "name": "Creased Employee Card",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Glistening Stone",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Imperfect Dominoes",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Finish Ghost Quest - Wayward Ghost",
+      "category": [
+        "Ghosts"
+      ],
+      "region": "Reality Folding Drive",
+      "requires": "|Creased Employee Card|"
+    },
+    {
+      "name": "Finish Ghost Quest - Searching Ghost",
+      "category": [
+        "Ghosts"
+      ],
+      "region": "Gardens",
+      "requires": "|Glistening Stone|"
+    },
+    {
+      "name": "Finish Ghost Quest - Anarchic Ghost",
+      "category": [
+        "Ghosts"
+      ],
+      "region": "Gardens",
+      "requires": "|Protest Letter|"
+    },
+    {
+      "name": "Finish Ghost Quest - Horrified Ghost",
+      "category": [
+        "Ghosts"
+      ],
+      "region": "Beach",
+      "requires": "|Vampire Report|"
+    },
+    {
+      "name": "Finish Ghost Quest - Mika 1",
+      "category": [
+        "Ghosts"
+      ],
+      "region": "Beach",
+      "requires": "|Imperfect Dominoes|"
+    },
+    {
+      "name": "Finish Ghost Quest - Mika 2",
+      "category": [
+        "Ghosts"
+      ],
+      "region": "Beach",
+      "requires": "|Imperfect Dominoes| AND |Island Sequence Momento - 020| AND |Music Track - Go! Go! Style| AND |Carving - Zealous|"
     }
   ]
 }

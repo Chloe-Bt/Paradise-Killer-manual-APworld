@@ -352,6 +352,13 @@
       "progression": true
     },
     {
+      "name": "Unlock Dainonigate",
+      "category": [
+        "Relationships"
+      ],
+      "progression": true
+    },
+    {
       "name": "Pet Bear-Chan in Citizen Housing",
       "category": [
         "Traps"
@@ -665,6 +672,489 @@
         "Sphere Limiters"
       ],
       "progression": true
+    },
+    {
+      "name": "Locker Code",
+      "category": [
+        "Relics"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Wistful Photo",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Dulled Percolator",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Well-read Book",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Creased Employee Card",
+      "category": [
+        "Relics"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Glistening Stone",
+      "category": [
+        "Relics"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Protest Letter",
+      "category": [
+        "Relics"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Vampire Report",
+      "category": [
+        "Relics"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Imperfect Dominoes",
+      "category": [
+        "Relics"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Music Track - Leaving",
+      "category": [
+        "Music Tracks"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Music Track - End of the World",
+      "category": [
+        "Music Tracks"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Music Track - To The Heart",
+      "category": [
+        "Music Tracks"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Music Track - Midori Eyes",
+      "category": [
+        "Music Tracks"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Music Track - Lady Blue",
+      "category": [
+        "Music Tracks"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Music Track - Sunset Song",
+      "category": [
+        "Music Tracks"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Music Track - Last Dance XX",
+      "category": [
+        "Music Tracks"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Music Track - Ego 24-7",
+      "category": [
+        "Music Tracks"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Music Track - 8th Street Rose",
+      "category": [
+        "Music Tracks"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Music Track - House of Bliss",
+      "category": [
+        "Music Tracks"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Music Track - The Lemegeton Bop",
+      "category": [
+        "Music Tracks"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Music Track - Unlimited∞Luv",
+      "category": [
+        "Music Tracks"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Music Track - Headlights on the Shore",
+      "category": [
+        "Music Tracks"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Music Track - About That...",
+      "category": [
+        "Music Tracks"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Music Track - Go! Go! Style",
+      "category": [
+        "Music Tracks"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Music Track - Citizen Apartments",
+      "category": [
+        "Music Tracks"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Island Sequence Momento - 001",
+      "category": [
+        "Island Momentos"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Island Sequence Momento - 002",
+      "category": [
+        "Island Momentos"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Island Sequence Momento - 003",
+      "category": [
+        "Island Momentos"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Island Sequence Momento - 004",
+      "category": [
+        "Island Momentos"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Island Sequence Momento - 005",
+      "category": [
+        "Island Momentos"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Island Sequence Momento - 006",
+      "category": [
+        "Island Momentos"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Island Sequence Momento - 007",
+      "category": [
+        "Island Momentos"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Island Sequence Momento - 008",
+      "category": [
+        "Island Momentos"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Island Sequence Momento - 009",
+      "category": [
+        "Island Momentos"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Island Sequence Momento - 010",
+      "category": [
+        "Island Momentos"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Island Sequence Momento - 011",
+      "category": [
+        "Island Momentos"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Island Sequence Momento - 012",
+      "category": [
+        "Island Momentos"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Island Sequence Momento - 013",
+      "category": [
+        "Island Momentos"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Island Sequence Momento - 014",
+      "category": [
+        "Island Momentos"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Island Sequence Momento - 015",
+      "category": [
+        "Island Momentos"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Island Sequence Momento - 016",
+      "category": [
+        "Island Momentos"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Island Sequence Momento - 017",
+      "category": [
+        "Island Momentos"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Island Sequence Momento - 018",
+      "category": [
+        "Island Momentos"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Island Sequence Momento - 019",
+      "category": [
+        "Island Momentos"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Island Sequence Momento - 020",
+      "category": [
+        "Island Momentos"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Island Sequence Momento - 021",
+      "category": [
+        "Island Momentos"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Island Sequence Momento - 022",
+      "category": [
+        "Island Momentos"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Island Sequence Momento - 023",
+      "category": [
+        "Island Momentos"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Island Sequence Momento - 024",
+      "category": [
+        "Island Momentos"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Damned Harmony",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Exclusive Silent Goat",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Blood Dancer",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Dire Rose",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Cosmic Deceit",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Endless Moon",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Nightmare Revival",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Enchanted Blue",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Silent Goat",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - New Night",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Dying From Sadness",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Crying Grudge",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Lost Pain",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Zealous",
+      "category": [
+        "Shrines"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Carving - Beautiful Spectre",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Destroyed Eden",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Faulty Worship Stamp",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Moonlight Petal",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Shadow Zero",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Vile Embrace",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
     }
   ]
 }
