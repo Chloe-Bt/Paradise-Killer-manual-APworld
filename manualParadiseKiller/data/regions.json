@@ -5,7 +5,8 @@
     "connects_to": [
       "Beach",
       "Deep Factory Entrance",
-      "Reality Folding Drive"
+      "Reality Folding Drive",
+      "Overworld"
     ]
   },
   "Beach": {
@@ -13,7 +14,8 @@
     "connects_to": [
       "Danchi",
       "Citizen Housing",
-      "Agri Fields"
+      "Agri Fields",
+      "Overworld"
     ]
   },
   "Citizen Apartments": {
@@ -22,7 +24,8 @@
       "Citizen Housing",
       "Danchi",
       "Desolation Cell",
-      "Gardens"
+      "Gardens",
+      "Overworld"
     ]
   },
   "Citizen Housing": {
@@ -33,20 +36,23 @@
       "Danchi",
       "Mountain Gorge",
       "Dead Zone",
-      "Tunnel"
+      "Tunnel",
+      "Overworld"
     ]
   },
   "Council Building": {
     "requires": "( |Syndicate Pamphlet (unlock the Council Building area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
-      "Syndicate HQ"
+      "Syndicate HQ",
+      "Overworld"
     ]
   },
   "Court House": {
     "requires": "( |letter of jury duty (unlock the Court House area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
       "Mountain Gorge",
-      "Syndicate HQ"
+      "Syndicate HQ",
+      "Overworld"
     ]
   },
   "Danchi": {
@@ -55,52 +61,68 @@
       "Beach",
       "Citizen Housing",
       "Citizen Apartments",
-      "Paradise Gates"
+      "Paradise Gates",
+      "Overworld"
     ]
   },
   "Dead Zone": {
+    "requires": "( |Starlight Upgrade - Cosmos| AND |Starlight Upgrade - Pyramids| ) OR |Double Jump| OR |Air Dash|",
     "connects_to": [
       "Mountain Gorge",
-      "Citizen Housing"
+      "Citizen Housing",
+      "Overworld"
     ]
   },
   "Deep Factory Entrance": {
     "requires": "( |Employee Card (unlock the Deep Factory Entrance area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
       "Agri Fields",
-      "Mountain Gorge"
+      "Mountain Gorge",
+      "Overworld"
     ]
   },
   "Desolation Cell": {
+    "requires": "|Starlight Upgrade - Goat|",
     "connects_to": [
-      "Citizen Apartments"
+      "Citizen Apartments",
+      "Overworld"
+    ]
+  },
+  "Doom Jazz's Yacht": {
+    "connects_to": [
+      "Syndicate HQ",
+      "Pyramid",
+      "Overworld"
     ]
   },
   "Gardens": {
     "requires": "( |Gardening supplies (unlock the Gardens area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
       "Citizen Apartments",
-      "Syndicate Apartments"
+      "Syndicate Apartments",
+      "Overworld"
     ]
   },
   "Idle Lands": {
     "starting": true,
     "connects_to": [
-      "Court House"
+      "Overworld"
     ],
     "exit_requires": {
-      "Court House": "|Starlight Upgrade - Goat|"
+      "Overworld": "|Starlight Upgrade - Goat|"
     }
   },
   "K. HX's Workshop": {
     "requires": "( |HX's spare keys (unlock the K. HX's Workshop area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
-      "Mountain Gorge"
+      "Mountain Gorge",
+      "Overworld"
     ]
   },
   "Marshal Barracks": {
     "connects_to": [
-      "Syndicate HQ"
+      "Syndicate HQ",
+      "Overworld"
     ]
   },
   "Mountain Gorge": {
@@ -111,46 +133,88 @@
       "Dead Zone",
       "Deep Factory Entrance",
       "K. HX's Workshop",
-      "Opulent Ziggurat"
+      "Opulent Ziggurat",
+      "Overworld"
     ]
   },
   "Opulent Ziggurat": {
     "requires": "( |Holy Scriptures (unlock the Opulent Ziggurat area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
       "Mountain Gorge",
-      "Syndicate Graveyard"
+      "Syndicate Graveyard",
+      "Overworld"
+    ]
+  },
+  "Overworld": {
+    "connects_to": [
+      "Agri Fields",
+      "Beach",
+      "Citizen Apartments",
+      "Citizen Housing",
+      "Council Building",
+      "Court House",
+      "Danchi",
+      "Dead Zone",
+      "Deep Factory Entrance",
+      "Desolation Cell",
+      "Doom Jazz's Yacht",
+      "Gardens",
+      "Idle Lands",
+      "K. HX's Workshop",
+      "Marshal Barracks",
+      "Mountain Gorge",
+      "Opulent Ziggurat",
+      "Paradise Gates",
+      "Pyramid",
+      "Reality Folding Drive",
+      "Syndicate Apartments",
+      "Syndicate Graveyard",
+      "Syndicate HQ",
+      "Tunnel",
+      "Secret Corridor"
     ]
   },
   "Paradise Gates": {
     "requires": "( |The great key (unlock the Paradise Gates area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
-      "Danchi"
+      "Danchi",
+      "Overworld"
     ]
   },
   "Pyramid": {
     "requires": "( |Jetsky (unlock the Pyramid area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
-      "Doom Jazz's Yacht"
+      "Doom Jazz's Yacht",
+      "Overworld"
     ]
   },
   "Reality Folding Drive": {
     "requires": "( |Hard hat (unlock the Reality Folding Drive area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
       "Agri Fields",
-      "Tunnel"
+      "Tunnel",
+      "Overworld"
+    ]
+  },
+  "Secret Corridor": {
+    "requires": "|Pile Bunker Gauntlets|",
+    "connects_to": [
+      "Overworld"
     ]
   },
   "Syndicate Apartments": {
     "requires": "( |Master key (unlock the Syndicate Apartments area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
       "Gardens",
-      "Syndicate HQ"
+      "Syndicate HQ",
+      "Overworld"
     ]
   },
   "Syndicate Graveyard": {
     "requires": "( |Syndicate tear (unlock the Syndicate Graveyard area)| AND {YamlEnabled(enable_mapping_requirements)} )",
     "connects_to": [
-      "Opulent Ziggurat"
+      "Opulent Ziggurat",
+      "Overworld"
     ]
   },
   "Syndicate HQ": {
@@ -160,19 +224,16 @@
       "Court House",
       "Marshal Barracks",
       "Syndicate Apartments",
-      "Doom Jazz's Yacht"
+      "Doom Jazz's Yacht",
+      "Overworld"
     ]
   },
   "Tunnel": {
+    "requires": "|Starlight Upgrade - Cosmos|",
     "connects_to": [
       "Citizen Housing",
-      "Reality Folding Drive"
-    ]
-  },
-  "Doom Jazz's Yacht": {
-    "connects_to": [
-      "Syndicate HQ",
-      "Pyramid"
+      "Reality Folding Drive",
+      "Overworld"
     ]
   }
 }

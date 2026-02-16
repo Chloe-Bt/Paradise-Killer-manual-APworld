@@ -7,7 +7,7 @@
       "default": false,
       "group": "Starting Items",
       "description": [
-        "Whether or not you start with the Starlight Computer + goat upgrade, prevents early softlock"
+        "Whether or not you start with the Starlight Computer + goat upgrade, prevents early BK. They are set as early checks no matter what you choose here."
       ]
     },
     "start_early_locations": {
@@ -16,7 +16,7 @@
       "default": false,
       "group": "Starting Items",
       "description": [
-        "Whether or not you start with acces to the games' first 2 areas, prevents early softlock"
+        "Whether or not you start with acces to the games' first 2 areas, prevents early BK. They are set as early checks no matter what you choose here."
       ]
     },
     "number_nebula_drinks": {
@@ -31,14 +31,14 @@
       ]
     },
     "number_whisky_bottles": {
-      "display_name": "How many Whisky Bottles to collect",
+      "display_name": "How many whisky Bottles to collect",
       "type": "Range",
       "default": 10,
       "range_start": 5,
       "range_end": 13,
       "group": "Archipelago Length",
       "description": [
-        "How many Whisky Bottles to find before winning your game."
+        "How many whisky Bottles to find before winning your game."
       ]
     },
     "enable_nebula_drinks": {
@@ -113,13 +113,22 @@
         "Enables the 4 recordings as items (filler) and locations."
       ]
     },
+    "enable_relationships": {
+      "display_name": "Progressive Relationships",
+      "type": "Toggle",
+      "default": true,
+      "group": "Randomizer Selection",
+      "description": [
+        "Enable the various relationships with all NPC's as items and locations. This option is forced to true and (progressive) if you selected the 'Lady Love Dies' goal."
+      ]
+    },
     "enable_alcohol_license": {
       "display_name": "Alcohol License",
       "type": "Toggle",
       "default": true,
       "group": "Sphere limiters",
       "description": [
-        "Enables a required key item before you are able to get checks from Whiskey Bottles"
+        "Enables a required key item before you are able to get checks from Whisky Bottles"
       ]
     },
     "enable_music_player": {
@@ -159,22 +168,22 @@
         "Highly recommended to turn it on to prevent a massive sphere 1."
       ]
     },
-    "goal_lsd": {
-      "type": "Toggle",
-      "default": false,
-      "hidden": true
-    },
-    "goal_lwd": {
-      "type": "Toggle",
-      "default": false,
-      "hidden": true
-    },
     "enable_whisky_drinks_f": {
       "type": "Toggle",
       "default": false,
       "hidden": true
     },
     "enable_whisky_drinks_p": {
+      "type": "Toggle",
+      "default": false,
+      "hidden": true
+    },
+    "enable_relationships_f": {
+      "type": "Toggle",
+      "default": false,
+      "hidden": true
+    },
+    "enable_relationships_p": {
       "type": "Toggle",
       "default": false,
       "hidden": true

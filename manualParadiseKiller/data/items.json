@@ -2,867 +2,6 @@
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
   "data": [
     {
-      "name": "Starlight Upgrade - Goat",
-      "category": [
-        "Starlight Upgrade"
-      ],
-      "progression": true,
-      "early": true
-    },
-    {
-      "name": "Starlight Upgrade - Cosmos",
-      "category": [
-        "Starlight Upgrade"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Starlight Upgrade - Worship",
-      "category": [
-        "Starlight Upgrade"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Dog Treats",
-      "category": [
-        "key Items"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Severed Arm",
-      "category": [
-        "key Items"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Starlight Upgrade - Pyramids",
-      "category": [
-        "Starlight Upgrade"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Nebula Drink - Angel Ward",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "progression": true,
-      "value": {
-        "Nebula Drink": 1
-      }
-    },
-    {
-      "name": "Nebula Drink - Indefinable Spectrum",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "progression": true,
-      "value": {
-        "Nebula Drink": 1
-      }
-    },
-    {
-      "name": "Nebula Drink - Parasol",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "progression": true,
-      "value": {
-        "Nebula Drink": 1
-      }
-    },
-    {
-      "name": "Nebula Drink - Cool Melon",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "progression": true,
-      "value": {
-        "Nebula Drink": 1
-      }
-    },
-    {
-      "name": "Nebula Drink - Acid's Favorite",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "progression": true,
-      "value": {
-        "Nebula Drink": 1
-      }
-    },
-    {
-      "name": "Nebula Drink - Lost Mountain Water",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "progression": true,
-      "value": {
-        "Nebula Drink": 1
-      }
-    },
-    {
-      "name": "Nebula Drink - Water",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "progression": true,
-      "value": {
-        "Nebula Drink": 1
-      }
-    },
-    {
-      "name": "Nebula Drink - Evening Haze",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "progression": true,
-      "value": {
-        "Nebula Drink": 1
-      }
-    },
-    {
-      "name": "Nebula Drink - Kill The Thirst",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "progression": true,
-      "value": {
-        "Nebula Drink": 1
-      }
-    },
-    {
-      "name": "Nebula Drink - Sanitea",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "progression": true,
-      "value": {
-        "Nebula Drink": 1
-      }
-    },
-    {
-      "name": "Nebula Drink - Crystal Sparkling Water",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "progression": true,
-      "value": {
-        "Nebula Drink": 1
-      }
-    },
-    {
-      "name": "Nebula Drink - O.O.O.",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "progression": true,
-      "value": {
-        "Nebula Drink": 1
-      }
-    },
-    {
-      "name": "Nebula Drink - Dead Moon",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "progression": true,
-      "value": {
-        "Nebula Drink": 1
-      }
-    },
-    {
-      "name": "Nebula Drink - Blood Fountain",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "progression": true,
-      "value": {
-        "Nebula Drink": 1
-      }
-    },
-    {
-      "name": "Nebula Drink - Parallel Red",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "progression": true,
-      "value": {
-        "Nebula Drink": 1
-      }
-    },
-    {
-      "name": "Nebula Drink - Aethestic Water",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "progression": true,
-      "value": {
-        "Nebula Drink": 1
-      }
-    },
-    {
-      "name": "Nebula Drink - Tropical Demolition",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "progression": true,
-      "value": {
-        "Nebula Drink": 1
-      }
-    },
-    {
-      "name": "Nebula Drink - Pillar Flower",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "progression": true,
-      "value": {
-        "Nebula Drink": 1
-      }
-    },
-    {
-      "name": "Nebula Drink - Power of Goat Soda",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "progression": true,
-      "value": {
-        "Nebula Drink": 1
-      }
-    },
-    {
-      "name": "Nebula Drink - Statue Mind",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "progression": true,
-      "value": {
-        "Nebula Drink": 1
-      }
-    },
-    {
-      "name": "Nebula Drink - The Elusive Chocolate",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "progression": true,
-      "value": {
-        "Nebula Drink": 1
-      }
-    },
-    {
-      "name": "Nebula Drink - Bizarre Lychee",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "progression": true,
-      "value": {
-        "Nebula Drink": 1
-      }
-    },
-    {
-      "name": "Nebula Drink - Provocative Flower",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "progression": true,
-      "value": {
-        "Nebula Drink": 1
-      }
-    },
-    {
-      "name": "Double Jump",
-      "category": [
-        "LLD upgrades"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Air Dash",
-      "category": [
-        "LLD upgrades"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Meditate",
-      "category": [
-        "LLD upgrades"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Unlock Judge",
-      "category": [
-        "Relationships"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Unlock Grand Marshal Akiko 14",
-      "category": [
-        "Relationships"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Unlock Carmelina Silence",
-      "category": [
-        "Relationships"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Unlock Crimson Acid",
-      "category": [
-        "Relationships"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Unlock Henry Division",
-      "category": [
-        "Relationships"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Unlock Lydia Day Break",
-      "category": [
-        "Relationships"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Unlock Sam Day Break",
-      "category": [
-        "Relationships"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Unlock The Witness To The End",
-      "category": [
-        "Relationships"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Unlock Yuri Night",
-      "category": [
-        "Relationships"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Unlock One Last Kiss",
-      "category": [
-        "Relationships"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Unlock Dainonigate",
-      "category": [
-        "Relationships"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Pet Bear-Chan in Citizen Housing",
-      "category": [
-        "Traps"
-      ],
-      "count": 10,
-      "trap": true
-    },
-    {
-      "name": "Whisky Bottle",
-      "category": [
-        "Whisky Bottles"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Whisky Bottle - Hair Trigger Whisky",
-      "category": [
-        "Whisky Bottles"
-      ],
-      "filler": true,
-      "value": {
-        "Whisky Bottle": 1
-      }
-    },
-    {
-      "name": "Whisky Bottle - Grinning Helper Whisky",
-      "category": [
-        "Whisky Bottles"
-      ],
-      "filler": true,
-      "value": {
-        "Whisky Bottle": 1
-      }
-    },
-    {
-      "name": "Whisky Bottle - No Reality Whisky",
-      "category": [
-        "Whisky Bottles"
-      ],
-      "filler": true,
-      "value": {
-        "Whisky Bottle": 1
-      }
-    },
-    {
-      "name": "Whisky Bottle - An Answer Lost Whisky",
-      "category": [
-        "Whisky Bottles"
-      ],
-      "filler": true,
-      "value": {
-        "Whisky Bottle": 1
-      }
-    },
-    {
-      "name": "Whisky Bottle - Chaos Domain Whisky",
-      "category": [
-        "Whisky Bottles"
-      ],
-      "filler": true,
-      "value": {
-        "Whisky Bottle": 1
-      }
-    },
-    {
-      "name": "Whisky Bottle - A Gothic Second Whisky",
-      "category": [
-        "Whisky Bottles"
-      ],
-      "filler": true,
-      "value": {
-        "Whisky Bottle": 1
-      }
-    },
-    {
-      "name": "Whisky Bottle - Winning Devil Whisky",
-      "category": [
-        "Whisky Bottles"
-      ],
-      "filler": true,
-      "value": {
-        "Whisky Bottle": 1
-      }
-    },
-    {
-      "name": "Whisky Bottle - Evening Melancholy Whisky",
-      "category": [
-        "Whisky Bottles"
-      ],
-      "filler": true,
-      "value": {
-        "Whisky Bottle": 1
-      }
-    },
-    {
-      "name": "Whisky Bottle - Code Whisky",
-      "category": [
-        "Whisky Bottles"
-      ],
-      "filler": true,
-      "value": {
-        "Whisky Bottle": 1
-      }
-    },
-    {
-      "name": "Whisky Bottle - Dead Man's Ambitious Whisky",
-      "category": [
-        "Whisky Bottles"
-      ],
-      "filler": true,
-      "value": {
-        "Whisky Bottle": 1
-      }
-    },
-    {
-      "name": "Whisky Bottle - No Warning Whisky",
-      "category": [
-        "Whisky Bottles"
-      ],
-      "filler": true,
-      "value": {
-        "Whisky Bottle": 1
-      }
-    },
-    {
-      "name": "Whisky Bottle - Seven Spies Whisky",
-      "category": [
-        "Whisky Bottles"
-      ],
-      "filler": true,
-      "value": {
-        "Whisky Bottle": 1
-      }
-    },
-    {
-      "name": "Whisky Bottle - Mikami's Masterpiece 4 Whisky",
-      "category": [
-        "Whisky Bottles"
-      ],
-      "filler": true,
-      "value": {
-        "Whisky Bottle": 1
-      }
-    },
-    {
-      "name": "Alcohol License",
-      "category": [
-        "Sphere Limiters"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Music Player",
-      "category": [
-        "Sphere Limiters"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Soda License",
-      "category": [
-        "Sphere Limiters"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Demon Translator",
-      "category": [
-        "Sphere Limiters"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Farming Supplies (unlock the Agri Fields area)",
-      "category": [
-        "Sphere Limiters"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Beach Towel (unlock the Beach area)",
-      "category": [
-        "Sphere Limiters"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Apartement Key (unlock the Citizen Apartments area)",
-      "category": [
-        "Sphere Limiters"
-      ],
-      "progression": true
-    },
-    {
-      "name": "House Key (unlock the Citizen Housing area)",
-      "category": [
-        "Sphere Limiters"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Syndicate Pamphlet (unlock the Council Building area)",
-      "category": [
-        "Sphere Limiters"
-      ],
-      "progression": true
-    },
-    {
-      "name": "letter of jury duty (unlock the Court House area)",
-      "category": [
-        "Sphere Limiters"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Fishing Rod (unlock the Danchi area)",
-      "category": [
-        "Sphere Limiters"
-      ],
-      "progression": true,
-      "early": true
-    },
-    {
-      "name": "Employee Card (unlock the Deep Factory Entrance area)",
-      "category": [
-        "Sphere Limiters"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Gardening supplies (unlock the Gardens area)",
-      "category": [
-        "Sphere Limiters"
-      ],
-      "progression": true
-    },
-    {
-      "name": "HX's spare keys (unlock the K. HX's Workshop area)",
-      "category": [
-        "Sphere Limiters"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Goat, no not that goat (unlock the Mountain Gorge area)",
-      "category": [
-        "Sphere Limiters"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Holy Scriptures (unlock the Opulent Ziggurat area)",
-      "category": [
-        "Sphere Limiters"
-      ],
-      "progression": true
-    },
-    {
-      "name": "The great key (unlock the Paradise Gates area)",
-      "category": [
-        "Sphere Limiters"
-      ],
-      "progression": true,
-      "early": true
-    },
-    {
-      "name": "Jetsky (unlock the Pyramid area)",
-      "category": [
-        "Sphere Limiters"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Hard hat (unlock the Reality Folding Drive area)",
-      "category": [
-        "Sphere Limiters"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Secret Corridors",
-      "category": [
-        "Sphere Limiters"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Master key (unlock the Syndicate Apartments area)",
-      "category": [
-        "Sphere Limiters"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Syndicate tear (unlock the Syndicate Graveyard area)",
-      "category": [
-        "Sphere Limiters"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Control Room Access (unlock the Syndicate HQ area)",
-      "category": [
-        "Sphere Limiters"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Doom Jazz's Yacht",
-      "category": [
-        "Sphere Limiters"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Locker Code",
-      "category": [
-        "Relics"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Wistful Photo",
-      "category": [
-        "Relics"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Dulled Percolator",
-      "category": [
-        "Relics"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Well-read Book",
-      "category": [
-        "Relics"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Creased Employee Card",
-      "category": [
-        "Key Items"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Glistening Stone",
-      "category": [
-        "Key Items"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Protest Letter",
-      "category": [
-        "Relics"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Vampire Report",
-      "category": [
-        "Relics"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Imperfect Dominoes",
-      "category": [
-        "Relics"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Music Track - Leaving",
-      "category": [
-        "Music Tracks"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Music Track - End of the World",
-      "category": [
-        "Music Tracks"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Music Track - To The Heart",
-      "category": [
-        "Music Tracks"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Music Track - Midori Eyes",
-      "category": [
-        "Music Tracks"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Music Track - Lady Blue",
-      "category": [
-        "Music Tracks"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Music Track - Sunset Song",
-      "category": [
-        "Music Tracks"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Music Track - Last Dance XX",
-      "category": [
-        "Music Tracks"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Music Track - Ego 24-7",
-      "category": [
-        "Music Tracks"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Music Track - 8th Street Rose",
-      "category": [
-        "Music Tracks"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Music Track - House of Bliss",
-      "category": [
-        "Music Tracks"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Music Track - The Lemegeton Bop",
-      "category": [
-        "Music Tracks"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Music Track - Unlimited∞Luv",
-      "category": [
-        "Music Tracks"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Music Track - Headlights on the Shore",
-      "category": [
-        "Music Tracks"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Music Track - About That...",
-      "category": [
-        "Music Tracks"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Music Track - Go! Go! Style",
-      "category": [
-        "Music Tracks"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Music Track - Citizen Apartments",
-      "category": [
-        "Music Tracks"
-      ],
-      "filler": true
-    },
-    {
       "name": "Island Sequence Momento - 001",
       "category": [
         "Island Momentos"
@@ -1031,144 +170,557 @@
       "filler": true
     },
     {
-      "name": "Carving - Damned Harmony",
+      "name": "Pile Bunker Gauntlets",
       "category": [
-        "Shrines"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Carving - Exclusive Silent Goat",
-      "category": [
-        "Shrines"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Carving - Blood Dancer",
-      "category": [
-        "Shrines"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Carving - Dire Rose",
-      "category": [
-        "Shrines"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Carving - Cosmic Deceit",
-      "category": [
-        "Shrines"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Carving - Endless Moon",
-      "category": [
-        "Shrines"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Carving - Nightmare Revival",
-      "category": [
-        "Shrines"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Carving - Enchanted Blue",
-      "category": [
-        "Shrines"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Carving - Silent Goat",
-      "category": [
-        "Shrines"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Carving - New Night",
-      "category": [
-        "Shrines"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Carving - Dying From Sadness",
-      "category": [
-        "Shrines"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Carving - Crying Grudge",
-      "category": [
-        "Shrines"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Carving - Lost Pain",
-      "category": [
-        "Shrines"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Carving - Zealous",
-      "category": [
-        "Shrines"
+        "Key Items"
       ],
       "progression": true
     },
     {
-      "name": "Carving - Beautiful Spectre",
+      "name": "Creased Employee Card",
       "category": [
-        "Shrines"
+        "Key Items"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Glistening Stone",
+      "category": [
+        "Key Items"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Red Crest",
+      "category": [
+        "Key Items"
+      ],
+      "count": 10,
+      "progression": true
+    },
+    {
+      "name": "Crane System Unlock Card",
+      "category": [
+        "Key Items"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Blue Crest",
+      "category": [
+        "Key Items"
+      ],
+      "count": 2,
+      "progression": true
+    },
+    {
+      "name": "Valve Handle",
+      "category": [
+        "Key Items"
+      ],
+      "count": 3,
+      "progression": true
+    },
+    {
+      "name": "Yellow Crest",
+      "category": [
+        "Key Items"
+      ],
+      "count": 2,
+      "progression": true
+    },
+    {
+      "name": "Green Crest",
+      "category": [
+        "Key Items"
+      ],
+      "count": 2,
+      "progression": true
+    },
+    {
+      "name": "Death Scream Device / Strange Device",
+      "category": [
+        "Key Items"
       ],
       "filler": true
     },
     {
-      "name": "Carving - Destroyed Eden",
+      "name": "Severed Hand",
       "category": [
-        "Shrines"
+        "Key Items"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Space Helmet",
+      "category": [
+        "Key Items"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Lyrics",
+      "category": [
+        "Key Items"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Dog Treats",
+      "category": [
+        "Key Items"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Severed Arm",
+      "category": [
+        "Key Items"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Double Jump",
+      "category": [
+        "LLD upgrades"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Air Dash",
+      "category": [
+        "LLD upgrades"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Meditate",
+      "category": [
+        "LLD upgrades"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Music Track - Leaving",
+      "category": [
+        "Music Tracks"
       ],
       "filler": true
     },
     {
-      "name": "Carving - Faulty Worship Stamp",
+      "name": "Music Track - End of the World",
       "category": [
-        "Shrines"
+        "Music Tracks"
       ],
       "filler": true
     },
     {
-      "name": "Carving - Moonlight Petal",
+      "name": "Music Track - To The Heart",
       "category": [
-        "Shrines"
+        "Music Tracks"
       ],
       "filler": true
     },
     {
-      "name": "Carving - Shadow Zero",
+      "name": "Music Track - Midori Eyes",
       "category": [
-        "Shrines"
+        "Music Tracks"
       ],
       "filler": true
     },
     {
-      "name": "Carving - Vile Embrace",
+      "name": "Music Track - Lady Blue",
       "category": [
-        "Shrines"
+        "Music Tracks"
       ],
       "filler": true
+    },
+    {
+      "name": "Music Track - Sunset Song",
+      "category": [
+        "Music Tracks"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Music Track - Last Dance XX",
+      "category": [
+        "Music Tracks"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Music Track - Ego 24-7",
+      "category": [
+        "Music Tracks"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Music Track - 8th Street Rose",
+      "category": [
+        "Music Tracks"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Music Track - House of Bliss",
+      "category": [
+        "Music Tracks"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Music Track - The Lemegeton Bop",
+      "category": [
+        "Music Tracks"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Music Track - Unlimited∞Luv",
+      "category": [
+        "Music Tracks"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Music Track - Headlights on the Shore",
+      "category": [
+        "Music Tracks"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Music Track - About That...",
+      "category": [
+        "Music Tracks"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Music Track - Go! Go! Style",
+      "category": [
+        "Music Tracks"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Music Track - Citizen Apartments",
+      "category": [
+        "Music Tracks"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Nebula Drink",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "count": 23,
+      "progression": true
+    },
+    {
+      "name": "Nebula Drink - Angel Ward",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula": 1,
+        "Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Indefinable Spectrum",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula": 1,
+        "Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Parasol",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula": 1,
+        "Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Cool Melon",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula": 1,
+        "Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Acid's Favorite",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula": 1,
+        "Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Lost Mountain Water",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula": 1,
+        "Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Water",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula": 1,
+        "Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Evening Haze",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula": 1,
+        "Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Kill The Thirst",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula": 1,
+        "Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Sanitea",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula": 1,
+        "Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Crystal Sparkling Water",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula": 1,
+        "Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - O.O.O.",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula": 1,
+        "Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Dead Moon",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula": 1,
+        "Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Blood Fountain",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula": 1,
+        "Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Parallel Red",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula": 1,
+        "Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Aethestic Water",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula": 1,
+        "Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Tropical Demolition",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula": 1,
+        "Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Pillar Flower",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula": 1,
+        "Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Power of Goat Soda",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula": 1,
+        "Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Statue Mind",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula": 1,
+        "Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - The Elusive Chocolate",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula": 1,
+        "Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Bizarre Lychee",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula": 1,
+        "Drink": 1
+      }
+    },
+    {
+      "name": "Nebula Drink - Provocative Flower",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "progression": true,
+      "value": {
+        "Nebula": 1,
+        "Drink": 1
+      }
+    },
+    {
+      "name": "Locker Code",
+      "category": [
+        "Relics"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Wistful Photo",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Dulled Percolator",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Well-read Book",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Protest Letter",
+      "category": [
+        "Relics"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Vampire Report",
+      "category": [
+        "Relics"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Imperfect Dominoes",
+      "category": [
+        "Relics"
+      ],
+      "progression": true
     },
     {
       "name": "Desirable Bear Chan Phone Charm",
@@ -1437,80 +989,6 @@
       "filler": true
     },
     {
-      "name": "Red crest",
-      "category": [
-        "Key Items"
-      ],
-      "count": 10,
-      "progression": true
-    },
-    {
-      "name": "Crane System Unlock Card",
-      "category": [
-        "Key Items"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Blue Crest",
-      "category": [
-        "Key Items"
-      ],
-      "count": 2,
-      "progression": true
-    },
-    {
-      "name": "Valve Handle",
-      "category": [
-        "Key Items"
-      ],
-      "count": 3,
-      "progression": true
-    },
-    {
-      "name": "Yellow Crest",
-      "category": [
-        "Key Items"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Green Crest",
-      "category": [
-        "Key Items"
-      ],
-      "count": 2,
-      "progression": true
-    },
-    {
-      "name": "Death Scream Device / Strange Device",
-      "category": [
-        "Key Items"
-      ],
-      "filler": true
-    },
-    {
-      "name": "Severed Hand",
-      "category": [
-        "Key Items"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Space Helmet",
-      "category": [
-        "Key Items"
-      ],
-      "progression": true
-    },
-    {
-      "name": "Lyrics",
-      "category": [
-        "Key Items"
-      ],
-      "progression": true
-    },
-    {
       "name": "Coveted Loyalty Card",
       "category": [
         "Relics"
@@ -1705,6 +1183,599 @@
         "Relics"
       ],
       "filler": true
+    },
+    {
+      "name": "Despairing Diary",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Damned Harmony",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Exclusive Silent Goat",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Blood Dancer",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Dire Rose",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Cosmic Deceit",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Endless Moon",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Nightmare Revival",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Enchanted Blue",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Silent Goat",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - New Night",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Dying From Sadness",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Crying Grudge",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Lost Pain",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Zealous",
+      "category": [
+        "Shrines"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Carving - Beautiful Spectre",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Destroyed Eden",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Faulty Worship Stamp",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Moonlight Petal",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Shadow Zero",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Carving - Vile Embrace",
+      "category": [
+        "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Alcohol License",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Music Player",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Soda License",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Demon Translator",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Farming Supplies (unlock the Agri Fields area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Beach Towel (unlock the Beach area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Apartement Key (unlock the Citizen Apartments area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "House Key (unlock the Citizen Housing area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Syndicate Pamphlet (unlock the Council Building area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "letter of jury duty (unlock the Court House area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true,
+      "early": true
+    },
+    {
+      "name": "Fishing Rod (unlock the Danchi area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Employee Card (unlock the Deep Factory Entrance area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Gardening supplies (unlock the Gardens area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "HX's spare keys (unlock the K. HX's Workshop area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Goat, no not that goat (unlock the Mountain Gorge area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Holy Scriptures (unlock the Opulent Ziggurat area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "The great key (unlock the Paradise Gates area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true,
+      "early": true
+    },
+    {
+      "name": "Jetsky (unlock the Pyramid area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Hard hat (unlock the Reality Folding Drive area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Secret Corridors",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Master key (unlock the Syndicate Apartments area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Syndicate tear (unlock the Syndicate Graveyard area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Control Room Access (unlock the Syndicate HQ area)",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Doom Jazz's Yacht",
+      "category": [
+        "Sphere Limiters"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Starlight Upgrade - Goat",
+      "category": [
+        "Starlight Upgrade"
+      ],
+      "progression": true,
+      "early": true
+    },
+    {
+      "name": "Starlight Upgrade - Cosmos",
+      "category": [
+        "Starlight Upgrade"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Starlight Upgrade - Worship",
+      "category": [
+        "Starlight Upgrade"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Starlight Upgrade - Pyramids",
+      "category": [
+        "Starlight Upgrade"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Pet Bear-Chan in Citizen Housing",
+      "category": [
+        "Traps"
+      ],
+      "count": 10,
+      "trap": true
+    },
+    {
+      "name": "Whisky Bottle",
+      "category": [
+        "Whisky Bottles"
+      ],
+      "count": 13,
+      "filler": true
+    },
+    {
+      "name": "Whisky Bottle - Hair Trigger Whisky",
+      "category": [
+        "Whisky Bottles"
+      ],
+      "filler": true,
+      "value": {
+        "Whisky": 1,
+        "Bottle": 1
+      }
+    },
+    {
+      "name": "Whisky Bottle - Grinning Helper Whisky",
+      "category": [
+        "Whisky Bottles"
+      ],
+      "filler": true,
+      "value": {
+        "Whisky": 1,
+        "Bottle": 1
+      }
+    },
+    {
+      "name": "Whisky Bottle - No Reality Whisky",
+      "category": [
+        "Whisky Bottles"
+      ],
+      "filler": true,
+      "value": {
+        "Whisky": 1,
+        "Bottle": 1
+      }
+    },
+    {
+      "name": "Whisky Bottle - An Answer Lost Whisky",
+      "category": [
+        "Whisky Bottles"
+      ],
+      "filler": true,
+      "value": {
+        "Whisky": 1,
+        "Bottle": 1
+      }
+    },
+    {
+      "name": "Whisky Bottle - Chaos Domain Whisky",
+      "category": [
+        "Whisky Bottles"
+      ],
+      "filler": true,
+      "value": {
+        "Whisky": 1,
+        "Bottle": 1
+      }
+    },
+    {
+      "name": "Whisky Bottle - A Gothic Second Whisky",
+      "category": [
+        "Whisky Bottles"
+      ],
+      "filler": true,
+      "value": {
+        "Whisky": 1,
+        "Bottle": 1
+      }
+    },
+    {
+      "name": "Whisky Bottle - Winning Devil Whisky",
+      "category": [
+        "Whisky Bottles"
+      ],
+      "filler": true,
+      "value": {
+        "Whisky": 1,
+        "Bottle": 1
+      }
+    },
+    {
+      "name": "Whisky Bottle - Evening Melancholy Whisky",
+      "category": [
+        "Whisky Bottles"
+      ],
+      "filler": true,
+      "value": {
+        "Whisky": 1,
+        "Bottle": 1
+      }
+    },
+    {
+      "name": "Whisky Bottle - Code Whisky",
+      "category": [
+        "Whisky Bottles"
+      ],
+      "filler": true,
+      "value": {
+        "Whisky": 1,
+        "Bottle": 1
+      }
+    },
+    {
+      "name": "Whisky Bottle - Dead Man's Ambitious Whisky",
+      "category": [
+        "Whisky Bottles"
+      ],
+      "filler": true,
+      "value": {
+        "Whisky": 1,
+        "Bottle": 1
+      }
+    },
+    {
+      "name": "Whisky Bottle - No Warning Whisky",
+      "category": [
+        "Whisky Bottles"
+      ],
+      "filler": true,
+      "value": {
+        "Whisky": 1,
+        "Bottle": 1
+      }
+    },
+    {
+      "name": "Whisky Bottle - Seven Spies Whisky",
+      "category": [
+        "Whisky Bottles"
+      ],
+      "filler": true,
+      "value": {
+        "Whisky": 1,
+        "Bottle": 1
+      }
+    },
+    {
+      "name": "Whisky Bottle - Mikami's Masterpiece 4 Whisky",
+      "category": [
+        "Whisky Bottles"
+      ],
+      "filler": true,
+      "value": {
+        "Whisky": 1,
+        "Bottle": 1
+      }
+    },
+    {
+      "name": "Progressive Judge Relationship",
+      "category": [
+        "Relationships"
+      ],
+      "count": 3,
+      "progression": true
+    },
+    {
+      "name": "Progressive Grand Marshal Akiko 14 Relationship",
+      "category": [
+        "Relationships"
+      ],
+      "count": 3,
+      "progression": true
+    },
+    {
+      "name": "Progressive Carmelina Silence Relationship",
+      "category": [
+        "Relationships"
+      ],
+      "count": 3,
+      "progression": true
+    },
+    {
+      "name": "Progressive Crimson Acid Relationship",
+      "category": [
+        "Relationships"
+      ],
+      "count": 3,
+      "progression": true
+    },
+    {
+      "name": "Progressive Henry Division Relationship",
+      "category": [
+        "Relationships"
+      ],
+      "count": 3,
+      "progression": true
+    },
+    {
+      "name": "Progressive Lydia Day Break Relationship",
+      "category": [
+        "Relationships"
+      ],
+      "count": 3,
+      "progression": true
+    },
+    {
+      "name": "Progressive Sam Day Break Relationship",
+      "category": [
+        "Relationships"
+      ],
+      "count": 3,
+      "progression": true
+    },
+    {
+      "name": "Progressive The Witness To The End Relationship",
+      "category": [
+        "Relationships"
+      ],
+      "count": 3,
+      "progression": true
+    },
+    {
+      "name": "Progressive Yuri Night Relationship",
+      "category": [
+        "Relationships"
+      ],
+      "count": 3,
+      "progression": true
+    },
+    {
+      "name": "Progressive One Last Kiss Relationship",
+      "category": [
+        "Relationships"
+      ],
+      "count": 3,
+      "progression": true
+    },
+    {
+      "name": "Progressive Dainonigate Relationship",
+      "category": [
+        "Relationships"
+      ],
+      "count": 3,
+      "progression": true
     }
   ]
 }

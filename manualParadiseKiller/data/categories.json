@@ -10,7 +10,7 @@
       "enables_shinji_locations"
     ]
   },
-  "Whisky Bottles": {
+  "whisky Bottles": {
     "yaml_option": [
       "enable_whisky_drinks"
     ]
@@ -38,6 +38,11 @@
   "Recordings": {
     "yaml_option": [
       "enable_recordings"
+    ]
+  },
+  "Relationships": {
+    "yaml_option": [
+      "enable_relationships"
     ]
   }
 }

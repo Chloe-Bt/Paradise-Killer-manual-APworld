@@ -55,6 +55,8 @@ def before_generate_early(world: World, multiworld: MultiWorld, player: int) -> 
             print("You choose the Lady whisky Dies ending")
             options.enable_whisky_drinks_p.value = True
             options.enable_whisky_drinks_f.value = False
+        case 2: #Relationship ending
+            options.enable_relationships.value = True
         case _:
             print("You picked a non-existing goal somehow?")
 
@@ -90,6 +92,15 @@ def before_create_items_all(item_config: dict[str, int|dict], world: World, mult
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
 def before_create_items_starting(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
+    for item in item_pool:
+        if "Whisky Bottle" in item.name:
+            if world.options.enable_whisky_drinks_p.value:
+                item.classification = ItemClassification.progression
+
+            elif world.options.enable_whisky_drinks_f.value:
+                item.classification = ItemClassification.filler
+
+
     return item_pool
 
 # The item pool after starting items are processed but before filler is added, in case you want to see the raw item pool at that stage
@@ -118,15 +129,6 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
 
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
-    for item in item_pool:
-        if item.name.startswith("Whisky Bottle"):
-            
-            if world.options.enable_whisky_drinks_p.value:
-                item.classification = ItemClassification.progression
-
-            elif world.options.enable_whisky_drinks_f.value:
-                item.classification = ItemClassification.filler
-                
     return item_pool
 
 # Called before rules for accessing regions and locations are created. Not clear why you'd want this, but it's here.
