@@ -24,6 +24,20 @@
       "progression": true
     },
     {
+      "name": "Dog Treats",
+      "category": [
+        "key Items"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Severed Arm",
+      "category": [
+        "key Items"
+      ],
+      "progression": true
+    },
+    {
       "name": "Starlight Upgrade - Pyramids",
       "category": [
         "Starlight Upgrade"
@@ -704,14 +718,14 @@
     {
       "name": "Creased Employee Card",
       "category": [
-        "Relics"
+        "Key Items"
       ],
       "progression": true
     },
     {
       "name": "Glistening Stone",
       "category": [
-        "Relics"
+        "Key Items"
       ],
       "progression": true
     },
@@ -1153,6 +1167,542 @@
       "name": "Carving - Vile Embrace",
       "category": [
         "Shrines"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Desirable Bear Chan Phone Charm",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Grubby Skimming Runes",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Devil Nebula",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Inquisitive Apartment Murder Report",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Efficacious Chillies",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Discarded Pistachios",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Gleaming Male Idol Card",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Joyous Fish Food",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Glinting Golden Crown",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Gaudy Blood Pendant",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Suspicious Video Tape",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Cheerful Children's Book",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Fancy Playing Cards",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Extrinsic Fossil",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Dazzling Obelisk",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Absurb Message Stones",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Malicious Secretive Cassette",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Ill-fated Ring Pulls",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Righteous Moserrat T-shirt",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Enchanting Blood Charm",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Covetable Workers Reward",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Proud Pin Badge",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Lurid Crimson Acid Phone Charm",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Questionable Donation",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Resonant Photo of a Man",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Wonderful Crystallized Tears",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Nostalgic Fallen Rose",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Abnormal Butterfly",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Polished Badge",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Wistful Lovers Padlock",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Incoherent Abandoned Diary",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Recondite Ornate Book",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Knowledgeable Listening Device",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Tawdry Poster",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Dazzling Obelisk Charm",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Descriptive River Power Station Schedule",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Enchanted Blue Carving",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Inaccurate Alarm Clock",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Red crest",
+      "category": [
+        "Key Items"
+      ],
+      "count": 10,
+      "progression": true
+    },
+    {
+      "name": "Crane System Unlock Card",
+      "category": [
+        "Key Items"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Blue Crest",
+      "category": [
+        "Key Items"
+      ],
+      "count": 2,
+      "progression": true
+    },
+    {
+      "name": "Valve Handle",
+      "category": [
+        "Key Items"
+      ],
+      "count": 3,
+      "progression": true
+    },
+    {
+      "name": "Yellow Crest",
+      "category": [
+        "Key Items"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Green Crest",
+      "category": [
+        "Key Items"
+      ],
+      "count": 2,
+      "progression": true
+    },
+    {
+      "name": "Death Scream Device / Strange Device",
+      "category": [
+        "Key Items"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Severed Hand",
+      "category": [
+        "Key Items"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Space Helmet",
+      "category": [
+        "Key Items"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Lyrics",
+      "category": [
+        "Key Items"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Coveted Loyalty Card",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Obsequious Love Letter",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Duplicated Rotten Eggs",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Fashionable Dead Nebula Phone Charm",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Idiotic Loyalty Levels",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Wretched CD",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Unavoidable Pain Pills",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Glittering Sequin Ward",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Shameful Fake Golden Crown",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Grotesque Pyramid Charms",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Haunting Sculpture",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Nauseating Offering Gems",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Discarded Bottle",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Lydia's Knife",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Contemplative Painting",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Cute Tamago Phone Charm",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Tremendous Game Cart",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Vapid Book",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Splendid Pamphlet",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Fantastic Crystallized Tear Necklace",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Lucky Doll",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Time Worn Blood Bowl",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Maddening Rare Plant",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Aromatic Mushrooms",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Ill-Fated Pleading Letter",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Ultimate Tea",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Well Loved Secateurs",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Polite Luxury Chocolates",
+      "category": [
+        "Relics"
       ],
       "filler": true
     }

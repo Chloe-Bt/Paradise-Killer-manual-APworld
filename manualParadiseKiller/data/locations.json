@@ -2,28 +2,385 @@
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
   "data": [
     {
-      "name": "Nebula Drink - Angel Ward",
+      "name": "Starlight Skin - Bridge to Nowhere",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Desolation Cell"
+    },
+    {
+      "name": "Meet Grand Marshal Akiko 14",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Desolation Cell",
+      "requires": "|Unlock Grand Marshal Akiko 14|"
+    },
+    {
+      "name": "Meet Henry Division",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Desolation Cell",
+      "requires": "|Unlock Henry Division|"
+    },
+    {
+      "name": "Starlight Upgrade - Goat",
+      "category": [
+        "Starlight Upgrade"
+      ],
+      "region": "Idle Lands"
+    },
+    {
+      "name": "Shinji - Idle Lands",
+      "category": [
+        "Shinji Locations"
+      ],
+      "region": "Idle Lands"
+    },
+    {
+      "name": "Wistful Photo",
+      "category": [
+        "Relics"
+      ],
+      "region": "Idle Lands"
+    },
+    {
+      "name": "Dulled Percolator",
+      "category": [
+        "Relics"
+      ],
+      "region": "Idle Lands"
+    },
+    {
+      "name": "Well-read Book",
+      "category": [
+        "Relics"
+      ],
+      "region": "Idle Lands"
+    },
+    {
+      "name": "Shrine - New Night Carving",
+      "category": [
+        "Shrines"
+      ],
+      "region": "Marshal Barracks"
+    },
+    {
+      "name": "Shrine - Zealous Carving",
+      "category": [
+        "Shrines"
+      ],
+      "region": "Paradise Gates"
+    },
+    {
+      "name": "Whisky Bottle - Hair Trigger Whisky",
+      "category": [
+        "Whisky Bottles"
+      ],
+      "region": "Paradise Gates",
+      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
+    },
+    {
+      "name": "Death Scream Device / Strange Device",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Paradise Gates"
+    },
+    {
+      "name": "Shinji - Pyramid 1",
+      "category": [
+        "Shinji Locations"
+      ],
+      "region": "Pyramid",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
+    },
+    {
+      "name": "Island Sequence Momento - 012",
+      "category": [
+        "Island Momentos"
+      ],
+      "region": "Tunnel"
+    },
+    {
+      "name": "Meet Dainonigate",
+      "category": [
+        "Relationships"
+      ],
+      "requires": "|Unlock Dainonigate|"
+    },
+    {
+      "name": "Lady Soda Dies",
+      "category": [
+        "victory"
+      ],
+      "requires": "{OptionCount(@Nebula Drinks, number_nebula_drinks)}",
+      "victory": true
+    },
+    {
+      "name": "Lady Whisky Dies",
+      "category": [
+        "victory"
+      ],
+      "requires": "{OptionCount(@Whisky Bottles, number_whisky_bottles)}",
+      "victory": true
+    },
+    {
+      "name": "Nebula Drink - Bizarre Lychee",
       "category": [
         "Nebula Drinks"
       ],
-      "region": "Syndicate HQ",
+      "region": "Agri Fields",
       "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
-      "name": "Nebula Drink - Indefinable Spectrum",
+      "name": "Starlight Skin - Loquacious Jellyfish",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Agri Fields"
+    },
+    {
+      "name": "Starlight Skin - Fortified Desert",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Agri Fields"
+    },
+    {
+      "name": "Starlight Skin - Wonderful Skyline",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Agri Fields"
+    },
+    {
+      "name": "Island Sequence Momento - 010",
+      "category": [
+        "Island Momentos"
+      ],
+      "region": "Agri Fields"
+    },
+    {
+      "name": "Radio Control Tower - Go! Go! Style",
+      "category": [
+        "Music Tracks"
+      ],
+      "region": "Agri Fields",
+      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
+    },
+    {
+      "name": "Shinji - Agri Fields 1",
+      "category": [
+        "Shinji Locations"
+      ],
+      "region": "Agri Fields",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
+    },
+    {
+      "name": "Shinji - Agri Fields 2",
+      "category": [
+        "Shinji Locations"
+      ],
+      "region": "Agri Fields",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
+    },
+    {
+      "name": "Recording 004",
+      "category": [
+        "Recordings"
+      ],
+      "region": "Agri Fields"
+    },
+    {
+      "name": "Whisky Bottle - Seven Spies Whisky",
+      "category": [
+        "Whisky Bottles"
+      ],
+      "region": "Agri Fields",
+      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
+    },
+    {
+      "name": "Protest Letter",
+      "category": [
+        "Relics"
+      ],
+      "region": "Agri Fields"
+    },
+    {
+      "name": "Valve Handle 1",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Agri Fields"
+    },
+    {
+      "name": "Valve Handle 2",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Agri Fields"
+    },
+    {
+      "name": "Valve Handle 3",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Agri Fields"
+    },
+    {
+      "name": "Covetable Workers Reward",
+      "category": [
+        "Relics"
+      ],
+      "region": "Agri Fields"
+    },
+    {
+      "name": "Proud Pin Badge",
+      "category": [
+        "Relics"
+      ],
+      "region": "Agri Fields"
+    },
+    {
+      "name": "Watering the Agri Fields",
+      "category": [
+        "Quests"
+      ],
+      "region": "Agri Fields",
+      "requires": "|Valve Handle:3|"
+    },
+    {
+      "name": "Activate the Comms Tower",
+      "category": [
+        "Quests"
+      ],
+      "region": "Agri Fields",
+      "requires": "|Starlight Upgrade - Goat| AND |Starlight Upgrade - Cosmos|"
+    },
+    {
+      "name": "Nebula Drink - Pillar Flower",
       "category": [
         "Nebula Drinks"
       ],
-      "region": "Gardens",
+      "region": "Beach",
       "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
-      "name": "Nebula Drink - Parasol",
+      "name": "Nebula Drink - Power of Goat Soda",
       "category": [
         "Nebula Drinks"
       ],
-      "region": "Gardens",
+      "region": "Beach",
       "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
+    },
+    {
+      "name": "Starlight Skin - Aspirational View",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Beach"
+    },
+    {
+      "name": "Starlight Skin - Ancient Text",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Beach"
+    },
+    {
+      "name": "Starlight Skin - Tropical Starlight",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Beach"
+    },
+    {
+      "name": "Starlight Skin - End of Day",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Beach",
+      "requires": "|Double Jump| OR |Air Dash|"
+    },
+    {
+      "name": "Island Sequence Momento - 019",
+      "category": [
+        "Island Momentos"
+      ],
+      "region": "Beach"
+    },
+    {
+      "name": "Radio Control Tower - Headlights on the Shore",
+      "category": [
+        "Music Tracks"
+      ],
+      "region": "Beach",
+      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
+    },
+    {
+      "name": "Shinji - Beach 1",
+      "category": [
+        "Shinji Locations"
+      ],
+      "region": "Beach",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
+    },
+    {
+      "name": "Shinji - Beach 2",
+      "category": [
+        "Shinji Locations"
+      ],
+      "region": "Beach",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
+    },
+    {
+      "name": "Shrine - Lost Pain Carving",
+      "category": [
+        "Shrines"
+      ],
+      "region": "Beach"
+    },
+    {
+      "name": "Whisky Bottle - Code Whisky",
+      "category": [
+        "Whisky Bottles"
+      ],
+      "region": "Beach",
+      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
+    },
+    {
+      "name": "Finish Ghost Quest - Horrified Ghost",
+      "category": [
+        "Ghosts"
+      ],
+      "region": "Beach",
+      "requires": "|Vampire Report|"
+    },
+    {
+      "name": "Finish Ghost Quest - Mika 1",
+      "category": [
+        "Ghosts"
+      ],
+      "region": "Beach",
+      "requires": "|Imperfect Dominoes|"
+    },
+    {
+      "name": "Finish Ghost Quest - Mika 2",
+      "category": [
+        "Ghosts"
+      ],
+      "region": "Beach",
+      "requires": "|Imperfect Dominoes| AND |Island Sequence Momento - 020| AND |Music Track - Go! Go! Style| AND |Carving - Zealous|"
+    },
+    {
+      "name": "Activate Obelisk Control Panel",
+      "category": [
+        "Quests"
+      ],
+      "region": "Beach",
+      "requires": "|Starlight Upgrade - Cosmos| AND |Starlight Upgrade - Pyramids|"
     },
     {
       "name": "Nebula Drink - Cool Melon",
@@ -74,126 +431,6 @@
       "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
-      "name": "Nebula Drink - Sanitea",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "region": "Citizen Housing",
-      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
-    },
-    {
-      "name": "Nebula Drink - Crystal Sparkling Water",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "region": "Citizen Housing",
-      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
-    },
-    {
-      "name": "Nebula Drink - O.O.O.",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "region": "Citizen Housing",
-      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
-    },
-    {
-      "name": "Nebula Drink - Dead Moon",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "region": "Mountain Gorge",
-      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
-    },
-    {
-      "name": "Nebula Drink - Blood Fountain",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "region": "Dead Zone",
-      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
-    },
-    {
-      "name": "Nebula Drink - Parallel Red",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "region": "Danchi",
-      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
-    },
-    {
-      "name": "Nebula Drink - Aethestic Water",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "region": "Danchi",
-      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
-    },
-    {
-      "name": "Nebula Drink - Tropical Demolition",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "region": "Danchi",
-      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
-    },
-    {
-      "name": "Nebula Drink - Pillar Flower",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "region": "Beach",
-      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
-    },
-    {
-      "name": "Nebula Drink - Power of Goat Soda",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "region": "Beach",
-      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
-    },
-    {
-      "name": "Nebula Drink - Statue Mind",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "region": "Opulent Ziggurat",
-      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
-    },
-    {
-      "name": "Nebula Drink - The Elusive Chocolate",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "region": "Syndicate Graveyard",
-      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
-    },
-    {
-      "name": "Nebula Drink - Bizarre Lychee",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "region": "Agri Fields",
-      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
-    },
-    {
-      "name": "Nebula Drink - Provocative Flower",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "region": "Reality Folding Drive",
-      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
-    },
-    {
-      "name": "Foot Bath - Syndicate HQ",
-      "category": [
-        "Foot bath"
-      ],
-      "region": "Citizen Housing",
-      "requires": "|Double Jump|"
-    },
-    {
       "name": "Foot Bath - Citizen Apartments",
       "category": [
         "Foot bath"
@@ -202,121 +439,12 @@
       "requires": "|Air Dash|"
     },
     {
-      "name": "Foot Bath - Mountain Gorge",
-      "category": [
-        "Foot bath"
-      ],
-      "region": "Mountain Gorge",
-      "requires": "|Meditate|"
-    },
-    {
-      "name": "Starlight Upgrade - Goat",
-      "category": [
-        "Starlight Upgrade"
-      ],
-      "region": "Idle Lands",
-      "requires": "|Starlight Upgrade - Goat|"
-    },
-    {
       "name": "Starlight Upgrade - Cosmos",
       "category": [
         "Starlight Upgrade"
       ],
       "region": "Citizen Apartments",
       "requires": "|Unlock Crimson Acid|"
-    },
-    {
-      "name": "Starlight Upgrade - Worship",
-      "category": [
-        "Starlight Upgrade"
-      ],
-      "region": "Deep Factory Entrance",
-      "requires": "|@Nebula Drinks:10|"
-    },
-    {
-      "name": "Starlight Upgrade - Pyramids",
-      "category": [
-        "Starlight Upgrade"
-      ],
-      "region": "Reality Folding Drive",
-      "requires": "|Locker Code|"
-    },
-    {
-      "name": "Starlight Skin - Symbols of Justice",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Court House"
-    },
-    {
-      "name": "Starlight Skin - Symbols of Day Break",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Syndicate HQ"
-    },
-    {
-      "name": "Starlight Skin - Idol Starlight",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Syndicate HQ"
-    },
-    {
-      "name": "Starlight Skin - Bear the Shiba",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Syndicate HQ"
-    },
-    {
-      "name": "Starlight Skin - Forbidden City",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Council Building"
-    },
-    {
-      "name": "Starlight Skin - Blazing Sunset",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Council Building"
-    },
-    {
-      "name": "Starlight Skin - Symbols of an Architect",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Council Building"
-    },
-    {
-      "name": "Starlight Skin - Silent Watchers",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Council Building"
-    },
-    {
-      "name": "Starlight Skin - Symbols of a Warrior",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Gardens"
-    },
-    {
-      "name": "Starlight Skin - Final Moments",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Gardens"
-    },
-    {
-      "name": "Starlight Skin - Dead Nebula",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Syndicate Apartments"
     },
     {
       "name": "Starlight Skin - Symbol of the Secretary",
@@ -417,395 +545,11 @@
       "region": "Citizen Apartments"
     },
     {
-      "name": "Starlight Skin - Blissful Sky",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Citizen Housing"
-    },
-    {
-      "name": "Starlight Skin - Vibing",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Citizen Housing"
-    },
-    {
-      "name": "Starlight Skin - Mysterious Carp",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Citizen Housing"
-    },
-    {
-      "name": "Starlight Skin - Hallowed Bamboo",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Citizen Housing"
-    },
-    {
-      "name": "Starlight Skin - Escape to the City",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Citizen Housing"
-    },
-    {
-      "name": "Starlight Skin - The Day Breaks",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Citizen Housing"
-    },
-    {
-      "name": "Starlight Skin - Grim Lotus",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Danchi"
-    },
-    {
-      "name": "Starlight Skin - Beautiful Blossom",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Danchi"
-    },
-    {
-      "name": "Starlight Skin - Bathed Towers",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Danchi"
-    },
-    {
-      "name": "Starlight Skin - Symbol of a Kiss",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Danchi"
-    },
-    {
-      "name": "Starlight Skin - Aspirational View",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Beach"
-    },
-    {
-      "name": "Starlight Skin - Ancient Text",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Beach"
-    },
-    {
-      "name": "Starlight Skin - Tropical Starlight",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Beach"
-    },
-    {
-      "name": "Starlight Skin - End of Day",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Beach",
-      "requires": "|Double Jump| OR |Air Dash|"
-    },
-    {
-      "name": "Starlight Skin - Bridge to Nowhere",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Desolation Cell"
-    },
-    {
-      "name": "Starlight Skin - Symbols of Medication",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "K. HX's Workshop"
-    },
-    {
-      "name": "Starlight Skin - Inverted Pyramid",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Opulent Ziggurat"
-    },
-    {
-      "name": "Starlight Skin - Holy Refinery",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Opulent Ziggurat",
-      "requires": "|Double Jump| AND |Air Dash|"
-    },
-    {
-      "name": "Starlight Skin - Symbols of Secrets",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Syndicate Graveyard"
-    },
-    {
-      "name": "Starlight Skin - Idyllic Beach",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Deep Factory Entrance"
-    },
-    {
-      "name": "Starlight Skin - Terrifying Shallows",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Deep Factory Entrance"
-    },
-    {
-      "name": "Starlight Skin - Loquacious Jellyfish",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Agri Fields"
-    },
-    {
-      "name": "Starlight Skin - Fortified Desert",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Agri Fields"
-    },
-    {
-      "name": "Starlight Skin - Wonderful Skyline",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Agri Fields"
-    },
-    {
-      "name": "Starlight Skin - Symbols of the Witness",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Reality Folding Drive"
-    },
-    {
-      "name": "Starlight Skin - Symbol of a Bar Master",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Reality Folding Drive"
-    },
-    {
-      "name": "Starlight Skin - Transmission Tower",
-      "category": [
-        "Starlight Skins"
-      ],
-      "region": "Reality Folding Drive"
-    },
-    {
-      "name": "Island Sequence Momento - 001",
-      "category": [
-        "Island Momentos"
-      ],
-      "region": "Gardens"
-    },
-    {
-      "name": "Island Sequence Momento - 002",
-      "category": [
-        "Island Momentos"
-      ],
-      "region": "Gardens"
-    },
-    {
-      "name": "Island Sequence Momento - 003",
-      "category": [
-        "Island Momentos"
-      ],
-      "region": "Council Building"
-    },
-    {
       "name": "Island Sequence Momento - 004",
       "category": [
         "Island Momentos"
       ],
-      "region": "Council Building"
-    },
-    {
-      "name": "Island Sequence Momento - 005",
-      "category": [
-        "Island Momentos"
-      ],
-      "region": "Citizen Housing"
-    },
-    {
-      "name": "Island Sequence Momento - 006",
-      "category": [
-        "Island Momentos"
-      ],
-      "region": "Citizen Housing"
-    },
-    {
-      "name": "Island Sequence Momento - 007",
-      "category": [
-        "Island Momentos"
-      ],
-      "region": "Deep Factory Entrance"
-    },
-    {
-      "name": "Island Sequence Momento - 008",
-      "category": [
-        "Island Momentos"
-      ],
-      "region": "Deep Factory Entrance"
-    },
-    {
-      "name": "Island Sequence Momento - 009",
-      "category": [
-        "Island Momentos"
-      ],
-      "region": "Deep Factory Entrance"
-    },
-    {
-      "name": "Island Sequence Momento - 010",
-      "category": [
-        "Island Momentos"
-      ],
-      "region": "Agri Fields"
-    },
-    {
-      "name": "Island Sequence Momento - 011",
-      "category": [
-        "Island Momentos"
-      ],
-      "region": "Reality Folding Drive"
-    },
-    {
-      "name": "Island Sequence Momento - 012",
-      "category": [
-        "Island Momentos"
-      ],
-      "region": "Tunnel"
-    },
-    {
-      "name": "Island Sequence Momento - 013",
-      "category": [
-        "Island Momentos"
-      ],
-      "region": "Mountain Gorge"
-    },
-    {
-      "name": "Island Sequence Momento - 014",
-      "category": [
-        "Island Momentos"
-      ],
-      "region": "Opulent Ziggurat"
-    },
-    {
-      "name": "Island Sequence Momento - 015",
-      "category": [
-        "Island Momentos"
-      ],
-      "region": "Citizen Housing"
-    },
-    {
-      "name": "Island Sequence Momento - 016",
-      "category": [
-        "Island Momentos"
-      ],
-      "region": "Dead Zone"
-    },
-    {
-      "name": "Island Sequence Momento - 017",
-      "category": [
-        "Island Momentos"
-      ],
-      "region": "Dead Zone"
-    },
-    {
-      "name": "Island Sequence Momento - 018",
-      "category": [
-        "Island Momentos"
-      ],
-      "region": "Citizen Housing"
-    },
-    {
-      "name": "Island Sequence Momento - 019",
-      "category": [
-        "Island Momentos"
-      ],
-      "region": "Beach"
-    },
-    {
-      "name": "Island Sequence Momento - 020",
-      "category": [
-        "Island Momentos"
-      ],
-      "region": "Court House"
-    },
-    {
-      "name": "Island Sequence Momento - 021",
-      "category": [
-        "Island Momentos"
-      ],
-      "region": "Mountain Gorge"
-    },
-    {
-      "name": "Island Sequence Momento - 022",
-      "category": [
-        "Island Momentos"
-      ],
-      "region": "Citizen Housing"
-    },
-    {
-      "name": "Island Sequence Momento - 023",
-      "category": [
-        "Island Momentos"
-      ],
-      "region": "Citizen Housing"
-    },
-    {
-      "name": "Island Sequence Momento - 024",
-      "category": [
-        "Island Momentos"
-      ],
-      "region": "Citizen Housing"
-    },
-    {
-      "name": "Radio Control Tower - Leaving",
-      "category": [
-        "Music Tracks"
-      ],
-      "region": "Syndicate HQ",
-      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
-    },
-    {
-      "name": "Radio Control Tower - End of the World",
-      "category": [
-        "Music Tracks"
-      ],
-      "region": "Syndicate HQ",
-      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
-    },
-    {
-      "name": "Radio Control Tower - To The Heart",
-      "category": [
-        "Music Tracks"
-      ],
-      "region": "Council Building",
-      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
-    },
-    {
-      "name": "Radio Control Tower - Midori Eyes",
-      "category": [
-        "Music Tracks"
-      ],
-      "region": "Mountain Gorge",
-      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
+      "region": "Citizen Apartments"
     },
     {
       "name": "Radio Control Tower - Lady Blue",
@@ -838,198 +582,6 @@
       ],
       "region": "Citizen Apartments",
       "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
-    },
-    {
-      "name": "Radio Control Tower - 8th Street Rose",
-      "category": [
-        "Music Tracks"
-      ],
-      "region": "Citizen Housing",
-      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
-    },
-    {
-      "name": "Radio Control Tower - House of Bliss",
-      "category": [
-        "Music Tracks"
-      ],
-      "region": "Citizen Housing",
-      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
-    },
-    {
-      "name": "Radio Control Tower - The Lemegeton Bop",
-      "category": [
-        "Music Tracks"
-      ],
-      "region": "Danchi",
-      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
-    },
-    {
-      "name": "Radio Control Tower - Unlimited∞Luv",
-      "category": [
-        "Music Tracks"
-      ],
-      "region": "Danchi",
-      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
-    },
-    {
-      "name": "Radio Control Tower - Headlights on the Shore",
-      "category": [
-        "Music Tracks"
-      ],
-      "region": "Beach",
-      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
-    },
-    {
-      "name": "Radio Control Tower - About That...",
-      "category": [
-        "Music Tracks"
-      ],
-      "region": "K. HX's Workshop",
-      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
-    },
-    {
-      "name": "Radio Control Tower - Go! Go! Style",
-      "category": [
-        "Music Tracks"
-      ],
-      "region": "Agri Fields",
-      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
-    },
-    {
-      "name": "Radio Control Tower - Citizen Apartments",
-      "category": [
-        "Music Tracks"
-      ],
-      "region": "Reality Folding Drive",
-      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
-    },
-    {
-      "name": "Shinji - Court House",
-      "category": [
-        "Shinji Locations"
-      ],
-      "region": "Court House",
-      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
-    },
-    {
-      "name": "Shinji - Syndicate HQ 1",
-      "category": [
-        "Shinji Locations"
-      ],
-      "region": "Syndicate HQ",
-      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
-    },
-    {
-      "name": "Shinji - Syndicate HQ 2",
-      "category": [
-        "Shinji Locations"
-      ],
-      "region": "Syndicate HQ",
-      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
-    },
-    {
-      "name": "Shinji - Syndicate HQ 3",
-      "category": [
-        "Shinji Locations"
-      ],
-      "region": "Syndicate HQ",
-      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
-    },
-    {
-      "name": "Shinji - Council Building 1",
-      "category": [
-        "Shinji Locations"
-      ],
-      "region": "Council Building",
-      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
-    },
-    {
-      "name": "Shinji - Council Building 2",
-      "category": [
-        "Shinji Locations"
-      ],
-      "region": "Council Building",
-      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
-    },
-    {
-      "name": "Shinji - Council Building 3",
-      "category": [
-        "Shinji Locations"
-      ],
-      "region": "Council Building",
-      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
-    },
-    {
-      "name": "Shinji - Gardens 1",
-      "category": [
-        "Shinji Locations"
-      ],
-      "region": "Gardens",
-      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
-    },
-    {
-      "name": "Shinji - Citizen Housing 1",
-      "category": [
-        "Shinji Locations"
-      ],
-      "region": "Citizen Housing",
-      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
-    },
-    {
-      "name": "Shinji - Citizen Housing 2",
-      "category": [
-        "Shinji Locations"
-      ],
-      "region": "Citizen Housing",
-      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
-    },
-    {
-      "name": "Shinji - Citizen Housing 3",
-      "category": [
-        "Shinji Locations"
-      ],
-      "region": "Citizen Housing",
-      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
-    },
-    {
-      "name": "Shinji - Citizen Housing 4",
-      "category": [
-        "Shinji Locations"
-      ],
-      "region": "Citizen Housing",
-      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
-    },
-    {
-      "name": "Shinji - Citizen Housing 5",
-      "category": [
-        "Shinji Locations"
-      ],
-      "region": "Citizen Housing",
-      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
-    },
-    {
-      "name": "Shinji - Citizen Housing 6",
-      "category": [
-        "Shinji Locations"
-      ],
-      "region": "Citizen Housing",
-      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
-    },
-    {
-      "name": "Shinji - Citizen Housing 7",
-      "category": [
-        "Shinji Locations"
-      ],
-      "region": "Citizen Housing",
-      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
-    },
-    {
-      "name": "Shinji - Dead Zone",
-      "category": [
-        "Shinji Locations"
-      ],
-      "region": "Dead Zone",
-      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shinji - Citizen Apartments 1",
@@ -1104,60 +656,820 @@
       "requires": "|Double Jump| AND ( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
-      "name": "Shinji - Mountain Gorge 1",
+      "name": "Shrine - Enchanted Blue Carving",
+      "category": [
+        "Shrines"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Shrine - Silent Goat Carving",
+      "category": [
+        "Shrines"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Whisky Bottle - No Reality Whisky",
+      "category": [
+        "Whisky Bottles"
+      ],
+      "region": "Citizen Apartments",
+      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
+    },
+    {
+      "name": "Imperfect Dominoes",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Grubby Skimming Runes",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Glinting Golden Crown",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Gaudy Blood Pendant",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Suspicious Video Tape",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Cheerful Children's Book",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Fancy Playing Cards",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Dazzling Obelisk",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Absurb Message Stones",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Malicious Secretive Cassette",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Ill-fated Ring Pulls",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Righteous Moserrat T-shirt",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Enchanting Blood Charm",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Glistening Stone",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Incoherent Abandoned Diary",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Green Crest 1",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Green Crest 2",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Lurid Crimson Acid Phone Charm",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Questionable Donation",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Resonant Photo of a Man",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Wonderful Crystallized Tears",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Nostalgic Fallen Rose",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Abnormal Butterfly",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Polished Badge",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Wistful Lovers Padlock",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Recondite Ornate Book",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Knowledgeable Listening Device",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Tawdry Poster",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Dazzling Obelisk Charm",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Descriptive River Power Station Schedule",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Enchanted Blue Carving",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
+    },
+    {
+      "name": "Nebula Drink - Sanitea",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "region": "Citizen Housing",
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
+    },
+    {
+      "name": "Nebula Drink - Crystal Sparkling Water",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "region": "Citizen Housing",
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
+    },
+    {
+      "name": "Nebula Drink - O.O.O.",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "region": "Citizen Housing",
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
+    },
+    {
+      "name": "Foot Bath - Syndicate HQ",
+      "category": [
+        "Foot bath"
+      ],
+      "region": "Citizen Housing",
+      "requires": "|Double Jump|"
+    },
+    {
+      "name": "Starlight Skin - Blissful Sky",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Starlight Skin - Vibing",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Starlight Skin - Mysterious Carp",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Starlight Skin - Hallowed Bamboo",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Starlight Skin - Escape to the City",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Starlight Skin - The Day Breaks",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Island Sequence Momento - 005",
+      "category": [
+        "Island Momentos"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Island Sequence Momento - 006",
+      "category": [
+        "Island Momentos"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Island Sequence Momento - 015",
+      "category": [
+        "Island Momentos"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Island Sequence Momento - 018",
+      "category": [
+        "Island Momentos"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Island Sequence Momento - 022",
+      "category": [
+        "Island Momentos"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Island Sequence Momento - 023",
+      "category": [
+        "Island Momentos"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Island Sequence Momento - 024",
+      "category": [
+        "Island Momentos"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Radio Control Tower - 8th Street Rose",
+      "category": [
+        "Music Tracks"
+      ],
+      "region": "Citizen Housing",
+      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
+    },
+    {
+      "name": "Radio Control Tower - House of Bliss",
+      "category": [
+        "Music Tracks"
+      ],
+      "region": "Citizen Housing",
+      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
+    },
+    {
+      "name": "Shinji - Citizen Housing 1",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Mountain Gorge",
+      "region": "Citizen Housing",
       "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
-      "name": "Shinji - Mountain Gorge 2",
+      "name": "Shinji - Citizen Housing 2",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Mountain Gorge",
+      "region": "Citizen Housing",
       "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
-      "name": "Shinji - Mountain Gorge 3",
+      "name": "Shinji - Citizen Housing 3",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Mountain Gorge",
+      "region": "Citizen Housing",
       "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
-      "name": "Shinji - Mountain Gorge 4",
+      "name": "Shinji - Citizen Housing 4",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Mountain Gorge",
+      "region": "Citizen Housing",
       "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
-      "name": "Shinji - Deep Factory Entrance 1",
+      "name": "Shinji - Citizen Housing 5",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Deep Factory Entrance",
+      "region": "Citizen Housing",
       "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
-      "name": "Shinji - Deep Factory Entrance 2",
+      "name": "Shinji - Citizen Housing 6",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Deep Factory Entrance",
+      "region": "Citizen Housing",
       "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
-      "name": "Shinji - Deep Factory Entrance 3",
+      "name": "Shinji - Citizen Housing 7",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Deep Factory Entrance",
+      "region": "Citizen Housing",
       "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
+    },
+    {
+      "name": "Shrine - Cosmic Deceit Carving",
+      "category": [
+        "Shrines"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Shrine - Endless Moon Carving",
+      "category": [
+        "Shrines"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Shrine - Nightmare Revival Carving",
+      "category": [
+        "Shrines"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Whisky Bottle - An Answer Lost Whisky",
+      "category": [
+        "Whisky Bottles"
+      ],
+      "region": "Citizen Housing",
+      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
+    },
+    {
+      "name": "Whisky Bottle - Chaos Domain Whisky",
+      "category": [
+        "Whisky Bottles"
+      ],
+      "region": "Citizen Housing",
+      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
+    },
+    {
+      "name": "Whisky Bottle - A Gothic Second Whisky",
+      "category": [
+        "Whisky Bottles"
+      ],
+      "region": "Citizen Housing",
+      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
+    },
+    {
+      "name": "Meet Crimson Acid",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Citizen Housing",
+      "requires": "|Unlock Crimson Acid|"
+    },
+    {
+      "name": "Inaccurate Alarm Clock",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Coveted Loyalty Card",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Obsequious Love Letter",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Duplicated Rotten Eggs",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Fashionable Dead Nebula Phone Charm",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Idiotic Loyalty Levels",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Blue Crest 1",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Blue Crest 2",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Dog Treats",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Creased Employee Card",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Give Dog Treats to Bear",
+      "category": [
+        "Quests"
+      ],
+      "region": "Citizen Housing",
+      "requires": "|Dog Treats|"
+    },
+    {
+      "name": "Wretched CD",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Unavoidable Pain Pills",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Glittering Sequin Ward",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Shameful Fake Golden Crown",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Housing"
+    },
+    {
+      "name": "Starlight Skin - Forbidden City",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Council Building"
+    },
+    {
+      "name": "Starlight Skin - Blazing Sunset",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Council Building"
+    },
+    {
+      "name": "Starlight Skin - Symbols of an Architect",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Council Building"
+    },
+    {
+      "name": "Starlight Skin - Silent Watchers",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Council Building"
+    },
+    {
+      "name": "Island Sequence Momento - 003",
+      "category": [
+        "Island Momentos"
+      ],
+      "region": "Council Building"
+    },
+    {
+      "name": "Radio Control Tower - To The Heart",
+      "category": [
+        "Music Tracks"
+      ],
+      "region": "Council Building",
+      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
+    },
+    {
+      "name": "Shinji - Council Building 1",
+      "category": [
+        "Shinji Locations"
+      ],
+      "region": "Council Building",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
+    },
+    {
+      "name": "Shinji - Council Building 2",
+      "category": [
+        "Shinji Locations"
+      ],
+      "region": "Council Building",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
+    },
+    {
+      "name": "Shinji - Council Building 3",
+      "category": [
+        "Shinji Locations"
+      ],
+      "region": "Council Building",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
+    },
+    {
+      "name": "Shrine - Exclusive Silent Goat Carving",
+      "category": [
+        "Shrines"
+      ],
+      "region": "Council Building"
+    },
+    {
+      "name": "Whisky Bottle - Grinning Helper Whisky",
+      "category": [
+        "Whisky Bottles"
+      ],
+      "region": "Council Building",
+      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
+    },
+    {
+      "name": "Grotesque Pyramid Charms",
+      "category": [
+        "Relics"
+      ],
+      "region": "Council Building"
+    },
+    {
+      "name": "Haunting Sculpture",
+      "category": [
+        "Relics"
+      ],
+      "region": "Council Building"
+    },
+    {
+      "name": "Nauseating Offering Gems",
+      "category": [
+        "Relics"
+      ],
+      "region": "Council Building"
+    },
+    {
+      "name": "Discarded Bottle",
+      "category": [
+        "Relics"
+      ],
+      "region": "Council Building"
+    },
+    {
+      "name": "Lydia's Knife",
+      "category": [
+        "Relics"
+      ],
+      "region": "Council Building"
+    },
+    {
+      "name": "Starlight Skin - Symbols of Justice",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Court House"
+    },
+    {
+      "name": "Island Sequence Momento - 020",
+      "category": [
+        "Island Momentos"
+      ],
+      "region": "Court House"
+    },
+    {
+      "name": "Shinji - Court House",
+      "category": [
+        "Shinji Locations"
+      ],
+      "region": "Court House",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
+    },
+    {
+      "name": "Meet Judge",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Court House",
+      "requires": "|Unlock Judge|"
+    },
+    {
+      "name": "Nebula Drink - Parallel Red",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "region": "Danchi",
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
+    },
+    {
+      "name": "Nebula Drink - Aethestic Water",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "region": "Danchi",
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
+    },
+    {
+      "name": "Nebula Drink - Tropical Demolition",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "region": "Danchi",
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
+    },
+    {
+      "name": "Devil Nebula",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "region": "Danchi",
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
+    },
+    {
+      "name": "Starlight Skin - Grim Lotus",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Danchi"
+    },
+    {
+      "name": "Starlight Skin - Beautiful Blossom",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Danchi"
+    },
+    {
+      "name": "Starlight Skin - Bathed Towers",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Danchi"
+    },
+    {
+      "name": "Starlight Skin - Symbol of a Kiss",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Danchi"
+    },
+    {
+      "name": "Radio Control Tower - The Lemegeton Bop",
+      "category": [
+        "Music Tracks"
+      ],
+      "region": "Danchi",
+      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
+    },
+    {
+      "name": "Radio Control Tower - Unlimited∞Luv",
+      "category": [
+        "Music Tracks"
+      ],
+      "region": "Danchi",
+      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
     },
     {
       "name": "Shinji - Danchi 1",
@@ -1216,97 +1528,224 @@
       "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
-      "name": "Shinji - Beach 1",
+      "name": "Shrine - Crying Grudge Carving",
+      "category": [
+        "Shrines"
+      ],
+      "region": "Danchi"
+    },
+    {
+      "name": "Whisky Bottle - Evening Melancholy Whisky",
+      "category": [
+        "Whisky Bottles"
+      ],
+      "region": "Danchi",
+      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
+    },
+    {
+      "name": "Meet Lydia Day Break",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Danchi",
+      "requires": "|Unlock Lydia Day Break|"
+    },
+    {
+      "name": "Desirable Bear Chan Phone Charm",
+      "category": [
+        "Relics"
+      ],
+      "region": "Danchi"
+    },
+    {
+      "name": "Inquisitive Apartment Murder Report",
+      "category": [
+        "Relics"
+      ],
+      "region": "Danchi"
+    },
+    {
+      "name": "Efficacious Chillies",
+      "category": [
+        "Relics"
+      ],
+      "region": "Danchi"
+    },
+    {
+      "name": "Discarded Pistachios",
+      "category": [
+        "Relics"
+      ],
+      "region": "Danchi"
+    },
+    {
+      "name": "Gleaming Male Idol Card",
+      "category": [
+        "Relics"
+      ],
+      "region": "Danchi"
+    },
+    {
+      "name": "Extrinsic Fossil",
+      "category": [
+        "Relics"
+      ],
+      "region": "Danchi"
+    },
+    {
+      "name": "Finish Ghost Quest - Grieving Ghost",
+      "category": [
+        "Ghosts"
+      ],
+      "region": "Danchi",
+      "requires": "|Severed Arm|"
+    },
+    {
+      "name": "Severed Hand",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Danchi"
+    },
+    {
+      "name": "Contemplative Painting",
+      "category": [
+        "Relics"
+      ],
+      "region": "Danchi"
+    },
+    {
+      "name": "Cute Tamago Phone Charm",
+      "category": [
+        "Relics"
+      ],
+      "region": "Danchi"
+    },
+    {
+      "name": "Tremendous Game Cart",
+      "category": [
+        "Relics"
+      ],
+      "region": "Danchi"
+    },
+    {
+      "name": "Joyous Fish Food",
+      "category": [
+        "Relics"
+      ],
+      "region": "Danchi"
+    },
+    {
+      "name": "Nebula Drink - Blood Fountain",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "region": "Dead Zone",
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
+    },
+    {
+      "name": "Island Sequence Momento - 016",
+      "category": [
+        "Island Momentos"
+      ],
+      "region": "Dead Zone"
+    },
+    {
+      "name": "Island Sequence Momento - 017",
+      "category": [
+        "Island Momentos"
+      ],
+      "region": "Dead Zone"
+    },
+    {
+      "name": "Shinji - Dead Zone",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Beach",
+      "region": "Dead Zone",
       "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
-      "name": "Shinji - Beach 2",
+      "name": "Shrine - Dying From Sadness Carving",
+      "category": [
+        "Shrines"
+      ],
+      "region": "Dead Zone"
+    },
+    {
+      "name": "Whisky Bottle - Winning Devil Whisky",
+      "category": [
+        "Whisky Bottles"
+      ],
+      "region": "Dead Zone",
+      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
+    },
+    {
+      "name": "Starlight Upgrade - Worship",
+      "category": [
+        "Starlight Upgrade"
+      ],
+      "region": "Deep Factory Entrance",
+      "requires": "|@Nebula Drinks:10|"
+    },
+    {
+      "name": "Starlight Skin - Idyllic Beach",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Deep Factory Entrance"
+    },
+    {
+      "name": "Starlight Skin - Terrifying Shallows",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Deep Factory Entrance"
+    },
+    {
+      "name": "Island Sequence Momento - 007",
+      "category": [
+        "Island Momentos"
+      ],
+      "region": "Deep Factory Entrance"
+    },
+    {
+      "name": "Island Sequence Momento - 008",
+      "category": [
+        "Island Momentos"
+      ],
+      "region": "Deep Factory Entrance"
+    },
+    {
+      "name": "Island Sequence Momento - 009",
+      "category": [
+        "Island Momentos"
+      ],
+      "region": "Deep Factory Entrance"
+    },
+    {
+      "name": "Shinji - Deep Factory Entrance 1",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Beach",
+      "region": "Deep Factory Entrance",
       "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
-      "name": "Shinji - Opulent Ziggurat 1",
+      "name": "Shinji - Deep Factory Entrance 2",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Opulent Ziggurat",
+      "region": "Deep Factory Entrance",
       "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
-      "name": "Shinji - Syndicate Graveyard",
+      "name": "Shinji - Deep Factory Entrance 3",
       "category": [
         "Shinji Locations"
       ],
-      "region": "Syndicate Graveyard",
+      "region": "Deep Factory Entrance",
       "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
-    },
-    {
-      "name": "Shinji - Agri Fields 1",
-      "category": [
-        "Shinji Locations"
-      ],
-      "region": "Agri Fields",
-      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
-    },
-    {
-      "name": "Shinji - Agri Fields 2",
-      "category": [
-        "Shinji Locations"
-      ],
-      "region": "Agri Fields",
-      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
-    },
-    {
-      "name": "Shinji - Reality Folding Drive 1",
-      "category": [
-        "Shinji Locations"
-      ],
-      "region": "Reality Folding Drive",
-      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
-    },
-    {
-      "name": "Shinji - Reality Folding Drive 2",
-      "category": [
-        "Shinji Locations"
-      ],
-      "region": "Reality Folding Drive",
-      "requires": "|Double Jump| AND ( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
-    },
-    {
-      "name": "Shinji - Pyramid 1",
-      "category": [
-        "Shinji Locations"
-      ],
-      "region": "Pyramid",
-      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
-    },
-    {
-      "name": "Shinji - Idle Lands",
-      "category": [
-        "Shinji Locations"
-      ],
-      "region": "Idle Lands"
-    },
-    {
-      "name": "Recording 001",
-      "category": [
-        "Recordings"
-      ],
-      "region": "Mountain Gorge"
-    },
-    {
-      "name": "Recording 002",
-      "category": [
-        "Recordings"
-      ],
-      "region": "Mountain Gorge"
     },
     {
       "name": "Recording 003",
@@ -1314,27 +1753,6 @@
         "Recordings"
       ],
       "region": "Deep Factory Entrance"
-    },
-    {
-      "name": "Recording 004",
-      "category": [
-        "Recordings"
-      ],
-      "region": "Agri Fields"
-    },
-    {
-      "name": "Shrine - Damned Harmony Carving",
-      "category": [
-        "Shrines"
-      ],
-      "region": "Syndicate HQ"
-    },
-    {
-      "name": "Shrine - Exclusive Silent Goat Carving",
-      "category": [
-        "Shrines"
-      ],
-      "region": "Council Building"
     },
     {
       "name": "Shrine - Blood Dancer Carving",
@@ -1351,74 +1769,284 @@
       "region": "Deep Factory Entrance"
     },
     {
-      "name": "Shrine - Cosmic Deceit Carving",
+      "name": "Space Helmet",
       "category": [
-        "Shrines"
+        "Key Items"
       ],
-      "region": "Citizen Housing"
+      "region": "Deep Factory Entrance"
     },
     {
-      "name": "Shrine - Endless Moon Carving",
+      "name": "Crane System Unlock Card",
       "category": [
-        "Shrines"
+        "Key Items"
       ],
-      "region": "Citizen Housing"
+      "region": "Deep Factory Entrance"
     },
     {
-      "name": "Shrine - Nightmare Revival Carving",
+      "name": "Nebula Drink - Indefinable Spectrum",
       "category": [
-        "Shrines"
+        "Nebula Drinks"
       ],
-      "region": "Citizen Housing"
+      "region": "Gardens",
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
-      "name": "Shrine - Enchanted Blue Carving",
+      "name": "Nebula Drink - Parasol",
       "category": [
-        "Shrines"
+        "Nebula Drinks"
       ],
-      "region": "Citizen Apartments"
+      "region": "Gardens",
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
-      "name": "Shrine - Silent Goat Carving",
+      "name": "Starlight Skin - Symbols of a Warrior",
       "category": [
-        "Shrines"
+        "Starlight Skins"
       ],
-      "region": "Citizen Apartments"
+      "region": "Gardens"
     },
     {
-      "name": "Shrine - New Night Carving",
+      "name": "Starlight Skin - Final Moments",
       "category": [
-        "Shrines"
+        "Starlight Skins"
       ],
-      "region": "Marshal Barracks"
+      "region": "Gardens"
     },
     {
-      "name": "Shrine - Dying From Sadness Carving",
+      "name": "Island Sequence Momento - 001",
       "category": [
-        "Shrines"
+        "Island Momentos"
       ],
-      "region": "Dead Zone"
+      "region": "Gardens"
     },
     {
-      "name": "Shrine - Crying Grudge Carving",
+      "name": "Island Sequence Momento - 002",
       "category": [
-        "Shrines"
+        "Island Momentos"
       ],
-      "region": "Danchi"
+      "region": "Gardens"
     },
     {
-      "name": "Shrine - Lost Pain Carving",
+      "name": "Shinji - Gardens 1",
       "category": [
-        "Shrines"
+        "Shinji Locations"
       ],
-      "region": "Beach"
+      "region": "Gardens",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
-      "name": "Shrine - Zealous Carving",
+      "name": "Meet Yuri Night",
       "category": [
-        "Shrines"
+        "Relationships"
       ],
-      "region": "Paradise Gates"
+      "region": "Gardens",
+      "requires": "|Unlock Yuri Night|"
+    },
+    {
+      "name": "Finish Ghost Quest - Searching Ghost",
+      "category": [
+        "Ghosts"
+      ],
+      "region": "Gardens",
+      "requires": "|Glistening Stone|"
+    },
+    {
+      "name": "Finish Ghost Quest - Anarchic Ghost",
+      "category": [
+        "Ghosts"
+      ],
+      "region": "Gardens",
+      "requires": "|Protest Letter|"
+    },
+    {
+      "name": "Vapid Book",
+      "category": [
+        "Relics"
+      ],
+      "region": "Gardens"
+    },
+    {
+      "name": "Fantastic Crystallized Tear Necklace",
+      "category": [
+        "Relics"
+      ],
+      "region": "Gardens"
+    },
+    {
+      "name": "Splendid Pamphlet",
+      "category": [
+        "Relics"
+      ],
+      "region": "Gardens"
+    },
+    {
+      "name": "Starlight Skin - Symbols of Medication",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "K. HX's Workshop"
+    },
+    {
+      "name": "Radio Control Tower - About That...",
+      "category": [
+        "Music Tracks"
+      ],
+      "region": "K. HX's Workshop",
+      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
+    },
+    {
+      "name": "Whisky Bottle - No Warning Whisky",
+      "category": [
+        "Whisky Bottles"
+      ],
+      "region": "K. HX's Workshop",
+      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
+    },
+    {
+      "name": "Angel Nebula",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "region": "K. HX's Workshop",
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
+    },
+    {
+      "name": "Nebula Drink - Dead Moon",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "region": "Mountain Gorge",
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
+    },
+    {
+      "name": "Foot Bath - Mountain Gorge",
+      "category": [
+        "Foot bath"
+      ],
+      "region": "Mountain Gorge",
+      "requires": "|Meditate|"
+    },
+    {
+      "name": "Island Sequence Momento - 013",
+      "category": [
+        "Island Momentos"
+      ],
+      "region": "Mountain Gorge"
+    },
+    {
+      "name": "Island Sequence Momento - 021",
+      "category": [
+        "Island Momentos"
+      ],
+      "region": "Mountain Gorge"
+    },
+    {
+      "name": "Radio Control Tower - Midori Eyes",
+      "category": [
+        "Music Tracks"
+      ],
+      "region": "Mountain Gorge",
+      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
+    },
+    {
+      "name": "Shinji - Mountain Gorge 1",
+      "category": [
+        "Shinji Locations"
+      ],
+      "region": "Mountain Gorge",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
+    },
+    {
+      "name": "Shinji - Mountain Gorge 2",
+      "category": [
+        "Shinji Locations"
+      ],
+      "region": "Mountain Gorge",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
+    },
+    {
+      "name": "Shinji - Mountain Gorge 3",
+      "category": [
+        "Shinji Locations"
+      ],
+      "region": "Mountain Gorge",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
+    },
+    {
+      "name": "Shinji - Mountain Gorge 4",
+      "category": [
+        "Shinji Locations"
+      ],
+      "region": "Mountain Gorge",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
+    },
+    {
+      "name": "Recording 001",
+      "category": [
+        "Recordings"
+      ],
+      "region": "Mountain Gorge"
+    },
+    {
+      "name": "Recording 002",
+      "category": [
+        "Recordings"
+      ],
+      "region": "Mountain Gorge"
+    },
+    {
+      "name": "Whisky Bottle - Dead Man's Ambitious Whisky",
+      "category": [
+        "Whisky Bottles"
+      ],
+      "region": "Mountain Gorge",
+      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
+    },
+    {
+      "name": "Meet Sam Day Break",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Mountain Gorge",
+      "requires": "|Unlock Sam Day Break|"
+    },
+    {
+      "name": "Nebula Drink - Statue Mind",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "region": "Opulent Ziggurat",
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
+    },
+    {
+      "name": "Starlight Skin - Inverted Pyramid",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Opulent Ziggurat"
+    },
+    {
+      "name": "Starlight Skin - Holy Refinery",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Opulent Ziggurat",
+      "requires": "|Double Jump| AND |Air Dash|"
+    },
+    {
+      "name": "Island Sequence Momento - 014",
+      "category": [
+        "Island Momentos"
+      ],
+      "region": "Opulent Ziggurat"
+    },
+    {
+      "name": "Shinji - Opulent Ziggurat 1",
+      "category": [
+        "Shinji Locations"
+      ],
+      "region": "Opulent Ziggurat",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Shrine - Beautiful Spectre Carving",
@@ -1463,100 +2091,86 @@
       "region": "Opulent Ziggurat"
     },
     {
-      "name": "Whisky Bottle - Hair Trigger Whisky",
+      "name": "Lucky Doll",
       "category": [
-        "Whisky Bottles"
+        "Relics"
       ],
-      "region": "Paradise Gates",
-      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
+      "region": "Opulent Ziggurat"
     },
     {
-      "name": "Whisky Bottle - Grinning Helper Whisky",
+      "name": "Time Worn Blood Bowl",
       "category": [
-        "Whisky Bottles"
+        "Relics"
       ],
-      "region": "Council Building",
-      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
+      "region": "Opulent Ziggurat"
     },
     {
-      "name": "Whisky Bottle - No Reality Whisky",
+      "name": "Nebula Drink - Provocative Flower",
       "category": [
-        "Whisky Bottles"
+        "Nebula Drinks"
       ],
-      "region": "Citizen Apartments",
-      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
+      "region": "Reality Folding Drive",
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
-      "name": "Whisky Bottle - An Answer Lost Whisky",
+      "name": "Starlight Upgrade - Pyramids",
       "category": [
-        "Whisky Bottles"
+        "Starlight Upgrade"
       ],
-      "region": "Citizen Housing",
-      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
+      "region": "Reality Folding Drive",
+      "requires": "|Locker Code|"
     },
     {
-      "name": "Whisky Bottle - Chaos Domain Whisky",
+      "name": "Starlight Skin - Symbols of the Witness",
       "category": [
-        "Whisky Bottles"
+        "Starlight Skins"
       ],
-      "region": "Citizen Housing",
-      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
+      "region": "Reality Folding Drive"
     },
     {
-      "name": "Whisky Bottle - A Gothic Second Whisky",
+      "name": "Starlight Skin - Symbol of a Bar Master",
       "category": [
-        "Whisky Bottles"
+        "Starlight Skins"
       ],
-      "region": "Citizen Housing",
-      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
+      "region": "Reality Folding Drive"
     },
     {
-      "name": "Whisky Bottle - Winning Devil Whisky",
+      "name": "Starlight Skin - Transmission Tower",
       "category": [
-        "Whisky Bottles"
+        "Starlight Skins"
       ],
-      "region": "Dead Zone",
-      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
+      "region": "Reality Folding Drive"
     },
     {
-      "name": "Whisky Bottle - Evening Melancholy Whisky",
+      "name": "Island Sequence Momento - 011",
       "category": [
-        "Whisky Bottles"
+        "Island Momentos"
       ],
-      "region": "Danchi",
-      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
+      "region": "Reality Folding Drive"
     },
     {
-      "name": "Whisky Bottle - Code Whisky",
+      "name": "Radio Control Tower - Citizen Apartments",
       "category": [
-        "Whisky Bottles"
+        "Music Tracks"
       ],
-      "region": "Beach",
-      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
+      "region": "Reality Folding Drive",
+      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
     },
     {
-      "name": "Whisky Bottle - Dead Man's Ambitious Whisky",
+      "name": "Shinji - Reality Folding Drive 1",
       "category": [
-        "Whisky Bottles"
+        "Shinji Locations"
       ],
-      "region": "Mountain Gorge",
-      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
+      "region": "Reality Folding Drive",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
-      "name": "Whisky Bottle - No Warning Whisky",
+      "name": "Shinji - Reality Folding Drive 2",
       "category": [
-        "Whisky Bottles"
+        "Shinji Locations"
       ],
-      "region": "K. HX's Workshop",
-      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
-    },
-    {
-      "name": "Whisky Bottle - Seven Spies Whisky",
-      "category": [
-        "Whisky Bottles"
-      ],
-      "region": "Agri Fields",
-      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
+      "region": "Reality Folding Drive",
+      "requires": "|Double Jump| AND ( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Whisky Bottle - Mikami's Masterpiece 4 Whisky",
@@ -1567,60 +2181,34 @@
       "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
     },
     {
-      "name": "Meet Judge",
+      "name": "Finish Ghost Quest - Wayward Ghost",
       "category": [
-        "Relationships"
+        "Ghosts"
       ],
-      "region": "Court House",
-      "requires": "|Unlock Judge|"
+      "region": "Reality Folding Drive",
+      "requires": "|Creased Employee Card|"
     },
     {
-      "name": "Meet Grand Marshal Akiko 14",
+      "name": "Lyrics",
       "category": [
-        "Relationships"
+        "Key Items"
       ],
-      "region": "Desolation Cell",
-      "requires": "|Unlock Grand Marshal Akiko 14|"
+      "region": "Reality Folding Drive"
     },
     {
-      "name": "Meet Carmelina Silence",
+      "name": "Deader Nebula",
       "category": [
-        "Relationships"
+        "Nebula Drinks"
       ],
-      "region": "Syndicate HQ",
-      "requires": "|Unlock Carmelina Silence|"
+      "region": "Reality Folding Drive",
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
-      "name": "Meet Crimson Acid",
+      "name": "Starlight Skin - Dead Nebula",
       "category": [
-        "Relationships"
+        "Starlight Skins"
       ],
-      "region": "Citizen Housing",
-      "requires": "|Unlock Crimson Acid|"
-    },
-    {
-      "name": "Meet Henry Division",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Desolation Cell",
-      "requires": "|Unlock Henry Division|"
-    },
-    {
-      "name": "Meet Lydia Day Break",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Danchi",
-      "requires": "|Unlock Lydia Day Break|"
-    },
-    {
-      "name": "Meet Sam Day Break",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Mountain Gorge",
-      "requires": "|Unlock Sam Day Break|"
+      "region": "Syndicate Apartments"
     },
     {
       "name": "Meet The Witness To The End",
@@ -1631,12 +2219,76 @@
       "requires": "|Unlock The Witness To The End|"
     },
     {
-      "name": "Meet Yuri Night",
+      "name": "Green Crest - Syndicate Apartments",
       "category": [
-        "Relationships"
+        "Key Items"
       ],
-      "region": "Gardens",
-      "requires": "|Unlock Yuri Night|"
+      "region": "Syndicate Apartments"
+    },
+    {
+      "name": "Maddening Rare Plant",
+      "category": [
+        "Relics"
+      ],
+      "region": "Syndicate Apartments"
+    },
+    {
+      "name": "Aromatic Mushrooms",
+      "category": [
+        "Relics"
+      ],
+      "region": "Syndicate Apartments"
+    },
+    {
+      "name": "Ill-Fated Pleading Letter",
+      "category": [
+        "Relics"
+      ],
+      "region": "Syndicate Apartments"
+    },
+    {
+      "name": "Ultimate Tea",
+      "category": [
+        "Relics"
+      ],
+      "region": "Syndicate Apartments"
+    },
+    {
+      "name": "Well Loved Secateurs",
+      "category": [
+        "Relics"
+      ],
+      "region": "Syndicate Apartments"
+    },
+    {
+      "name": "Polite Luxury Chocolates",
+      "category": [
+        "Relics"
+      ],
+      "region": "Syndicate Apartments"
+    },
+    {
+      "name": "Nebula Drink - The Elusive Chocolate",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "region": "Syndicate Graveyard",
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
+    },
+    {
+      "name": "Starlight Skin - Symbols of Secrets",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Syndicate Graveyard"
+    },
+    {
+      "name": "Shinji - Syndicate Graveyard",
+      "category": [
+        "Shinji Locations"
+      ],
+      "region": "Syndicate Graveyard",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
       "name": "Meet One Last Kiss",
@@ -1647,117 +2299,172 @@
       "requires": "|Unlock One Last Kiss|"
     },
     {
-      "name": "Lady Soda Dies",
-      "category": [
-        "victory"
-      ],
-      "requires": "{OptionCount(@Nebula Drinks, number_nebula_drinks)}",
-      "victory": true
-    },
-    {
-      "name": "Lady Whisky Dies",
-      "category": [
-        "victory"
-      ],
-      "requires": "{OptionCount(@Whisky Bottles, number_whisky_bottles)}",
-      "victory": true
-    },
-    {
-      "name": "Protest Letter",
+      "name": "Vintage Watch",
       "category": [
         "Relics"
       ],
-      "region": "Agri Fields"
+      "region": "Syndicate Graveyard"
     },
     {
-      "name": "Wistful Photo",
+      "name": "Nebula Drink - Angel Ward",
       "category": [
-        "Relics"
+        "Nebula Drinks"
       ],
-      "region": "Idle Lands"
+      "region": "Syndicate HQ",
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )"
     },
     {
-      "name": "Dulled Percolator",
+      "name": "Starlight Skin - Symbols of Day Break",
       "category": [
-        "Relics"
+        "Starlight Skins"
       ],
-      "region": "Idle Lands"
+      "region": "Syndicate HQ"
     },
     {
-      "name": "Well-read Book",
+      "name": "Starlight Skin - Idol Starlight",
       "category": [
-        "Relics"
+        "Starlight Skins"
       ],
-      "region": "Idle Lands"
+      "region": "Syndicate HQ"
     },
     {
-      "name": "Creased Employee Card",
+      "name": "Starlight Skin - Bear the Shiba",
       "category": [
-        "Relics"
+        "Starlight Skins"
       ],
-      "region": "Citizen Housing"
+      "region": "Syndicate HQ"
     },
     {
-      "name": "Glistening Stone",
+      "name": "Radio Control Tower - Leaving",
       "category": [
-        "Relics"
+        "Music Tracks"
       ],
-      "region": "Citizen Housing"
+      "region": "Syndicate HQ",
+      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
     },
     {
-      "name": "Imperfect Dominoes",
+      "name": "Radio Control Tower - End of the World",
       "category": [
-        "Relics"
+        "Music Tracks"
       ],
-      "region": "Citizen Apartments"
+      "region": "Syndicate HQ",
+      "requires": "( |Music Player| AND {YamlEnabled(enable_music_player)} )"
     },
     {
-      "name": "Finish Ghost Quest - Wayward Ghost",
+      "name": "Shinji - Syndicate HQ 1",
       "category": [
-        "Ghosts"
+        "Shinji Locations"
       ],
-      "region": "Reality Folding Drive",
-      "requires": "|Creased Employee Card|"
+      "region": "Syndicate HQ",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
-      "name": "Finish Ghost Quest - Searching Ghost",
+      "name": "Shinji - Syndicate HQ 2",
       "category": [
-        "Ghosts"
+        "Shinji Locations"
       ],
-      "region": "Gardens",
-      "requires": "|Glistening Stone|"
+      "region": "Syndicate HQ",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
-      "name": "Finish Ghost Quest - Anarchic Ghost",
+      "name": "Shinji - Syndicate HQ 3",
       "category": [
-        "Ghosts"
+        "Shinji Locations"
       ],
-      "region": "Gardens",
-      "requires": "|Protest Letter|"
+      "region": "Syndicate HQ",
+      "requires": "( |Demon Translator| AND {YamlEnabled(enable_demon_translator)} )"
     },
     {
-      "name": "Finish Ghost Quest - Horrified Ghost",
+      "name": "Shrine - Damned Harmony Carving",
       "category": [
-        "Ghosts"
+        "Shrines"
       ],
-      "region": "Beach",
-      "requires": "|Vampire Report|"
+      "region": "Syndicate HQ"
     },
     {
-      "name": "Finish Ghost Quest - Mika 1",
+      "name": "Meet Carmelina Silence",
       "category": [
-        "Ghosts"
+        "Relationships"
       ],
-      "region": "Beach",
-      "requires": "|Imperfect Dominoes|"
+      "region": "Syndicate HQ",
+      "requires": "|Unlock Carmelina Silence|"
     },
     {
-      "name": "Finish Ghost Quest - Mika 2",
+      "name": "Red Crest 1/10",
       "category": [
-        "Ghosts"
+        "Key Items"
       ],
-      "region": "Beach",
-      "requires": "|Imperfect Dominoes| AND |Island Sequence Momento - 020| AND |Music Track - Go! Go! Style| AND |Carving - Zealous|"
+      "region": "Syndicate HQ"
+    },
+    {
+      "name": "Red Crest 2/10",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Syndicate HQ"
+    },
+    {
+      "name": "Red Crest 3/10",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Syndicate HQ"
+    },
+    {
+      "name": "Red Crest 4/10",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Syndicate HQ"
+    },
+    {
+      "name": "Red Crest 5/10",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Syndicate HQ"
+    },
+    {
+      "name": "Red Crest 6/10",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Syndicate HQ"
+    },
+    {
+      "name": "Red Crest 7/10",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Syndicate HQ"
+    },
+    {
+      "name": "Red Crest 8/10",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Syndicate HQ"
+    },
+    {
+      "name": "Red Crest 9/10",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Syndicate HQ"
+    },
+    {
+      "name": "Red Crest 10/10",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Syndicate HQ"
+    },
+    {
+      "name": "Blue Crest",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Syndicate HQ"
     }
   ]
 }

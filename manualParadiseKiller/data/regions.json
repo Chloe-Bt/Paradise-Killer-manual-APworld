@@ -54,7 +54,8 @@
     "connects_to": [
       "Beach",
       "Citizen Housing",
-      "Citizen Apartments"
+      "Citizen Apartments",
+      "Paradise Gates"
     ]
   },
   "Dead Zone": {
@@ -85,10 +86,10 @@
   "Idle Lands": {
     "starting": true,
     "connects_to": [
-      "Paradise Gates"
+      "Court House"
     ],
     "exit_requires": {
-      "Paradise Gates": "|Starlight Upgrade - Goat|"
+      "Court House": "|Starlight Upgrade - Goat|"
     }
   },
   "K. HX's Workshop": {
