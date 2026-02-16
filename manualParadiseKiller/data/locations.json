@@ -408,6 +408,24 @@
       "sort-key": "8"
     },
     {
+      "name": "Yellow Crest 1",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Danchi",
+      "requires": "|Yellow Crest:1|",
+      "sort-key": "8"
+    },
+    {
+      "name": "Yellow Crest 2",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Danchi",
+      "requires": "|Yellow Crest:2|",
+      "sort-key": "8"
+    },
+    {
       "name": "Severed Arm",
       "category": [
         "Key Items"
@@ -863,15 +881,6 @@
       "sort-key": "13"
     },
     {
-      "name": "Nebula Drink - Parasol",
-      "category": [
-        "Nebula Drinks"
-      ],
-      "region": "Syndicate Apartments",
-      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )",
-      "sort-key": "13"
-    },
-    {
       "name": "Angel Nebula",
       "category": [
         "Nebula Drinks"
@@ -915,6 +924,15 @@
       "region": "Reality Folding Drive",
       "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )",
       "sort-key": "20"
+    },
+    {
+      "name": "Nebula Drink - Parasol",
+      "category": [
+        "Nebula Drinks"
+      ],
+      "region": "Syndicate Apartments",
+      "requires": "( |Soda License| AND {YamlEnabled(enable_soda_license)} )",
+      "sort-key": "13"
     },
     {
       "name": "Nebula Drink - The Elusive Chocolate",
@@ -1003,6 +1021,303 @@
       "sort-key": "16"
     },
     {
+      "name": "Meet Crimson Acid",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Crimson Acid Relationship:1|",
+      "sort-key": "5"
+    },
+    {
+      "name": "Meet Judge",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Judge Relationship:1|",
+      "sort-key": "7"
+    },
+    {
+      "name": "Meet Lydia Day Break",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Lydia Day Break Relationship:1|",
+      "sort-key": "8"
+    },
+    {
+      "name": "Meet Grand Marshal Akiko 14",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Grand Marshal Akiko 14 Relationship:1|",
+      "sort-key": "11"
+    },
+    {
+      "name": "Meet Henry Division",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Henry Division Relationship:1|",
+      "sort-key": "11"
+    },
+    {
+      "name": "Meet Yuri Night",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Yuri Night Relationship:1|",
+      "sort-key": "13"
+    },
+    {
+      "name": "Meet Sam Day Break",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Sam Day Break Relationship:1|",
+      "sort-key": "16"
+    },
+    {
+      "name": "Meet Dainonigate",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Dainonigate Relationship:1|",
+      "sort-key": "21"
+    },
+    {
+      "name": "Meet The Witness To The End",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive The Witness To The End Relationship:1|",
+      "sort-key": "22"
+    },
+    {
+      "name": "Meet One Last Kiss",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive One Last Kiss Relationship:1|",
+      "sort-key": "23"
+    },
+    {
+      "name": "Meet Carmelina Silence",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Carmelina Silence Relationship:1|",
+      "sort-key": "24"
+    },
+    {
+      "name": "Crimson Acid relationship level 2",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Crimson Acid Relationship:2|",
+      "sort-key": "5"
+    },
+    {
+      "name": "Judge relationship level 2",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Judge Relationship:2|",
+      "sort-key": "7"
+    },
+    {
+      "name": "Lydia Day Break relationship level 2",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Lydia Day Break Relationship:2|",
+      "sort-key": "8"
+    },
+    {
+      "name": "Grand Marshal Akiko 14 relationship level 2",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Grand Marshal Akiko 14 Relationship:2|",
+      "sort-key": "11"
+    },
+    {
+      "name": "Henry Division relationship level 2",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Henry Division Relationship:2|",
+      "sort-key": "11"
+    },
+    {
+      "name": "Yuri Night relationship level 2",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Yuri Night Relationship:2|",
+      "sort-key": "13"
+    },
+    {
+      "name": "Sam Day Break relationship level 2",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Sam Day Break Relationship:2|",
+      "sort-key": "16"
+    },
+    {
+      "name": "Dainonigate relationship level 2",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Dainonigate Relationship:2|",
+      "sort-key": "21"
+    },
+    {
+      "name": "The Witness To The End relationship level 2",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive The Witness To The End Relationship:2|",
+      "sort-key": "22"
+    },
+    {
+      "name": "One Last Kiss relationship level 2",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive One Last Kiss Relationship:2|",
+      "sort-key": "23"
+    },
+    {
+      "name": "Carmelina Silence relationship level 2",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Carmelina Silence Relationship:2|",
+      "sort-key": "24"
+    },
+    {
+      "name": "Crimson Acid relationship level 3",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Crimson Acid Relationship:3|",
+      "sort-key": "5"
+    },
+    {
+      "name": "Judge relationship level 3",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Judge Relationship:3|",
+      "sort-key": "7"
+    },
+    {
+      "name": "Lydia Day Break relationship level 3",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Lydia Day Break Relationship:3|",
+      "sort-key": "8"
+    },
+    {
+      "name": "Grand Marshal Akiko 14 relationship level 3",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Grand Marshal Akiko 14 Relationship:3|",
+      "sort-key": "11"
+    },
+    {
+      "name": "Henry Division relationship level 3",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Henry Division Relationship:3|",
+      "sort-key": "11"
+    },
+    {
+      "name": "Yuri Night relationship level 3",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Yuri Night Relationship:3|",
+      "sort-key": "13"
+    },
+    {
+      "name": "Sam Day Break relationship level 3",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Sam Day Break Relationship:3|",
+      "sort-key": "16"
+    },
+    {
+      "name": "Dainonigate relationship level 3",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Dainonigate Relationship:3|",
+      "sort-key": "21"
+    },
+    {
+      "name": "The Witness To The End relationship level 3",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive The Witness To The End Relationship:3|",
+      "sort-key": "22"
+    },
+    {
+      "name": "One Last Kiss relationship level 3",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive One Last Kiss Relationship:3|",
+      "sort-key": "23"
+    },
+    {
+      "name": "Carmelina Silence relationship level 3",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Carmelina Silence Relationship:3|",
+      "sort-key": "24"
+    },
+    {
       "name": "Covetable Workers Reward",
       "category": [
         "Relics"
@@ -1017,6 +1332,20 @@
       ],
       "region": "Agri Fields",
       "sort-key": "2"
+    },
+    {
+      "name": "Quivering Jellyfish",
+      "category": [
+        "Relics"
+      ],
+      "region": "Beach"
+    },
+    {
+      "name": "Playful Stones",
+      "category": [
+        "Relics"
+      ],
+      "region": "Beach"
     },
     {
       "name": "Grubby Skimming Runes",
@@ -1233,6 +1562,13 @@
       ],
       "region": "Citizen Apartments",
       "sort-key": "4"
+    },
+    {
+      "name": "Fascinating Grasshopper",
+      "category": [
+        "Relics"
+      ],
+      "region": "Citizen Apartments"
     },
     {
       "name": "Inaccurate Alarm Clock",
@@ -2764,324 +3100,6 @@
       ],
       "region": "Reality Folding Drive",
       "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
-    },
-    {
-      "name": "Meet Crimson Acid",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive Crimson Acid Relationship:1|",
-      "sort-key": "5"
-    },
-    {
-      "name": "Meet Judge",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive Judge Relationship:1|",
-      "sort-key": "7"
-    },
-    {
-      "name": "Meet Lydia Day Break",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive Lydia Day Break Relationship:1|",
-      "sort-key": "8"
-    },
-    {
-      "name": "Meet Grand Marshal Akiko 14",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive Grand Marshal Akiko 14 Relationship:1|",
-      "sort-key": "11"
-    },
-    {
-      "name": "Meet Henry Division",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive Henry Division Relationship:1|",
-      "sort-key": "11"
-    },
-    {
-      "name": "Meet Yuri Night",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive Yuri Night Relationship:1|",
-      "sort-key": "13"
-    },
-    {
-      "name": "Meet Sam Day Break",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive Sam Day Break Relationship:1|",
-      "sort-key": "16"
-    },
-    {
-      "name": "Meet Dainonigate",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive Dainonigate Relationship:1|",
-      "sort-key": "21"
-    },
-    {
-      "name": "Meet The Witness To The End",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive The Witness To The End Relationship:1|",
-      "sort-key": "22"
-    },
-    {
-      "name": "Meet One Last Kiss",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive One Last Kiss Relationship:1|",
-      "sort-key": "23"
-    },
-    {
-      "name": "Meet Carmelina Silence",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive Carmelina Silence Relationship:1|",
-      "sort-key": "24"
-    },
-    {
-      "name": "Crimson Acid relationship level 2",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive Crimson Acid Relationship:2|",
-      "sort-key": "5"
-    },
-    {
-      "name": "Judge relationship level 2",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive Judge Relationship:2|",
-      "sort-key": "7"
-    },
-    {
-      "name": "Lydia Day Break relationship level 2",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive Lydia Day Break Relationship:2|",
-      "sort-key": "8"
-    },
-    {
-      "name": "Grand Marshal Akiko 14 relationship level 2",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive Grand Marshal Akiko 14 Relationship:2|",
-      "sort-key": "11"
-    },
-    {
-      "name": "Henry Division relationship level 2",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive Henry Division Relationship:2|",
-      "sort-key": "11"
-    },
-    {
-      "name": "Yuri Night relationship level 2",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive Yuri Night Relationship:2|",
-      "sort-key": "13"
-    },
-    {
-      "name": "Sam Day Break relationship level 2",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive Sam Day Break Relationship:2|",
-      "sort-key": "16"
-    },
-    {
-      "name": "Dainonigate relationship level 2",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive Dainonigate Relationship:2|",
-      "sort-key": "21"
-    },
-    {
-      "name": "The Witness To The End relationship level 2",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive The Witness To The End Relationship:2|",
-      "sort-key": "22"
-    },
-    {
-      "name": "One Last Kiss relationship level 2",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive One Last Kiss Relationship:2|",
-      "sort-key": "23"
-    },
-    {
-      "name": "Carmelina Silence relationship level 2",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive Carmelina Silence Relationship:2|",
-      "sort-key": "24"
-    },
-    {
-      "name": "Crimson Acid relationship level 3",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive Crimson Acid Relationship:3|",
-      "sort-key": "5"
-    },
-    {
-      "name": "Judge relationship level 3",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive Judge Relationship:3|",
-      "sort-key": "7"
-    },
-    {
-      "name": "Lydia Day Break relationship level 3",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive Lydia Day Break Relationship:3|",
-      "sort-key": "8"
-    },
-    {
-      "name": "Grand Marshal Akiko 14 relationship level 3",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive Grand Marshal Akiko 14 Relationship:3|",
-      "sort-key": "11"
-    },
-    {
-      "name": "Henry Division relationship level 3",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive Henry Division Relationship:3|",
-      "sort-key": "11"
-    },
-    {
-      "name": "Yuri Night relationship level 3",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive Yuri Night Relationship:3|",
-      "sort-key": "13"
-    },
-    {
-      "name": "Sam Day Break relationship level 3",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive Sam Day Break Relationship:3|",
-      "sort-key": "16"
-    },
-    {
-      "name": "Dainonigate relationship level 3",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive Dainonigate Relationship:3|",
-      "sort-key": "21"
-    },
-    {
-      "name": "The Witness To The End relationship level 3",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive The Witness To The End Relationship:3|",
-      "sort-key": "22"
-    },
-    {
-      "name": "One Last Kiss relationship level 3",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive One Last Kiss Relationship:3|",
-      "sort-key": "23"
-    },
-    {
-      "name": "Carmelina Silence relationship level 3",
-      "category": [
-        "Relationships"
-      ],
-      "region": "Overworld",
-      "requires": "|Progressive Carmelina Silence Relationship:3|",
-      "sort-key": "24"
-    },
-    {
-      "name": "Quivering Jellyfish",
-      "category": [
-        "Relics"
-      ],
-      "region": "Beach"
-    },
-    {
-      "name": "Playful Stones",
-      "category": [
-        "Relics"
-      ],
-      "region": "Beach"
-    },
-    {
-      "name": "Fascinating Grasshopper",
-      "category": [
-        "Relics"
-      ],
-      "region": "Citizen Apartments"
     }
   ]
 }

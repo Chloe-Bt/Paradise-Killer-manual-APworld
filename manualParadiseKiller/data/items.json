@@ -650,6 +650,94 @@
       }
     },
     {
+      "name": "Progressive Judge Relationship",
+      "category": [
+        "Relationships"
+      ],
+      "count": 3,
+      "progression": true
+    },
+    {
+      "name": "Progressive Grand Marshal Akiko 14 Relationship",
+      "category": [
+        "Relationships"
+      ],
+      "count": 3,
+      "progression": true
+    },
+    {
+      "name": "Progressive Carmelina Silence Relationship",
+      "category": [
+        "Relationships"
+      ],
+      "count": 3,
+      "progression": true
+    },
+    {
+      "name": "Progressive Crimson Acid Relationship",
+      "category": [
+        "Relationships"
+      ],
+      "count": 3,
+      "progression": true
+    },
+    {
+      "name": "Progressive Henry Division Relationship",
+      "category": [
+        "Relationships"
+      ],
+      "count": 3,
+      "progression": true
+    },
+    {
+      "name": "Progressive Lydia Day Break Relationship",
+      "category": [
+        "Relationships"
+      ],
+      "count": 3,
+      "progression": true
+    },
+    {
+      "name": "Progressive Sam Day Break Relationship",
+      "category": [
+        "Relationships"
+      ],
+      "count": 3,
+      "progression": true
+    },
+    {
+      "name": "Progressive The Witness To The End Relationship",
+      "category": [
+        "Relationships"
+      ],
+      "count": 3,
+      "progression": true
+    },
+    {
+      "name": "Progressive Yuri Night Relationship",
+      "category": [
+        "Relationships"
+      ],
+      "count": 3,
+      "progression": true
+    },
+    {
+      "name": "Progressive One Last Kiss Relationship",
+      "category": [
+        "Relationships"
+      ],
+      "count": 3,
+      "progression": true
+    },
+    {
+      "name": "Progressive Dainonigate Relationship",
+      "category": [
+        "Relationships"
+      ],
+      "count": 3,
+      "progression": true
+    },
+    {
       "name": "Fascinating Grasshopper",
       "category": [
         "Relics"
@@ -1682,94 +1770,6 @@
         "Whisky Bottle": 1
       }
 
-    },
-    {
-      "name": "Progressive Judge Relationship",
-      "category": [
-        "Relationships"
-      ],
-      "count": 3,
-      "progression": true
-    },
-    {
-      "name": "Progressive Grand Marshal Akiko 14 Relationship",
-      "category": [
-        "Relationships"
-      ],
-      "count": 3,
-      "progression": true
-    },
-    {
-      "name": "Progressive Carmelina Silence Relationship",
-      "category": [
-        "Relationships"
-      ],
-      "count": 3,
-      "progression": true
-    },
-    {
-      "name": "Progressive Crimson Acid Relationship",
-      "category": [
-        "Relationships"
-      ],
-      "count": 3,
-      "progression": true
-    },
-    {
-      "name": "Progressive Henry Division Relationship",
-      "category": [
-        "Relationships"
-      ],
-      "count": 3,
-      "progression": true
-    },
-    {
-      "name": "Progressive Lydia Day Break Relationship",
-      "category": [
-        "Relationships"
-      ],
-      "count": 3,
-      "progression": true
-    },
-    {
-      "name": "Progressive Sam Day Break Relationship",
-      "category": [
-        "Relationships"
-      ],
-      "count": 3,
-      "progression": true
-    },
-    {
-      "name": "Progressive The Witness To The End Relationship",
-      "category": [
-        "Relationships"
-      ],
-      "count": 3,
-      "progression": true
-    },
-    {
-      "name": "Progressive Yuri Night Relationship",
-      "category": [
-        "Relationships"
-      ],
-      "count": 3,
-      "progression": true
-    },
-    {
-      "name": "Progressive One Last Kiss Relationship",
-      "category": [
-        "Relationships"
-      ],
-      "count": 3,
-      "progression": true
-    },
-    {
-      "name": "Progressive Dainonigate Relationship",
-      "category": [
-        "Relationships"
-      ],
-      "count": 3,
-      "progression": true
     }
   ]
 }
