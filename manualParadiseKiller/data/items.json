@@ -417,7 +417,6 @@
       "category": [
         "Nebula Drinks"
       ],
-      "count": 0,
       "progression": true
     },
     {
@@ -427,8 +426,7 @@
       ],
       "progression": true,
       "value": {
-        "Nebula": 1,
-        "Drink": 1
+        "Nebula Drink": 1
       }
     },
     {
@@ -438,8 +436,7 @@
       ],
       "progression": true,
       "value": {
-        "Nebula": 1,
-        "Drink": 1
+        "Nebula Drink": 1
       }
     },
     {
@@ -449,8 +446,7 @@
       ],
       "progression": true,
       "value": {
-        "Nebula": 1,
-        "Drink": 1
+        "Nebula Drink": 1
       }
     },
     {
@@ -460,8 +456,7 @@
       ],
       "progression": true,
       "value": {
-        "Nebula": 1,
-        "Drink": 1
+        "Nebula Drink": 1
       }
     },
     {
@@ -471,8 +466,7 @@
       ],
       "progression": true,
       "value": {
-        "Nebula": 1,
-        "Drink": 1
+        "Nebula Drink": 1
       }
     },
     {
@@ -482,8 +476,7 @@
       ],
       "progression": true,
       "value": {
-        "Nebula": 1,
-        "Drink": 1
+        "Nebula Drink": 1
       }
     },
     {
@@ -493,8 +486,7 @@
       ],
       "progression": true,
       "value": {
-        "Nebula": 1,
-        "Drink": 1
+        "Nebula Drink": 1
       }
     },
     {
@@ -504,8 +496,7 @@
       ],
       "progression": true,
       "value": {
-        "Nebula": 1,
-        "Drink": 1
+        "Nebula Drink": 1
       }
     },
     {
@@ -515,8 +506,7 @@
       ],
       "progression": true,
       "value": {
-        "Nebula": 1,
-        "Drink": 1
+        "Nebula Drink": 1
       }
     },
     {
@@ -526,8 +516,7 @@
       ],
       "progression": true,
       "value": {
-        "Nebula": 1,
-        "Drink": 1
+        "Nebula Drink": 1
       }
     },
     {
@@ -537,8 +526,7 @@
       ],
       "progression": true,
       "value": {
-        "Nebula": 1,
-        "Drink": 1
+        "Nebula Drink": 1
       }
     },
     {
@@ -548,8 +536,7 @@
       ],
       "progression": true,
       "value": {
-        "Nebula": 1,
-        "Drink": 1
+        "Nebula Drink": 1
       }
     },
     {
@@ -559,8 +546,7 @@
       ],
       "progression": true,
       "value": {
-        "Nebula": 1,
-        "Drink": 1
+        "Nebula Drink": 1
       }
     },
     {
@@ -570,8 +556,7 @@
       ],
       "progression": true,
       "value": {
-        "Nebula": 1,
-        "Drink": 1
+        "Nebula Drink": 1
       }
     },
     {
@@ -581,8 +566,7 @@
       ],
       "progression": true,
       "value": {
-        "Nebula": 1,
-        "Drink": 1
+        "Nebula Drink": 1
       }
     },
     {
@@ -592,8 +576,7 @@
       ],
       "progression": true,
       "value": {
-        "Nebula": 1,
-        "Drink": 1
+        "Nebula Drink": 1
       }
     },
     {
@@ -603,8 +586,7 @@
       ],
       "progression": true,
       "value": {
-        "Nebula": 1,
-        "Drink": 1
+        "Nebula Drink": 1
       }
     },
     {
@@ -614,8 +596,7 @@
       ],
       "progression": true,
       "value": {
-        "Nebula": 1,
-        "Drink": 1
+        "Nebula Drink": 1
       }
     },
     {
@@ -625,8 +606,7 @@
       ],
       "progression": true,
       "value": {
-        "Nebula": 1,
-        "Drink": 1
+        "Nebula Drink": 1
       }
     },
     {
@@ -636,8 +616,7 @@
       ],
       "progression": true,
       "value": {
-        "Nebula": 1,
-        "Drink": 1
+        "Nebula Drink": 1
       }
     },
     {
@@ -647,8 +626,7 @@
       ],
       "progression": true,
       "value": {
-        "Nebula": 1,
-        "Drink": 1
+        "Nebula Drink": 1
       }
     },
     {
@@ -658,8 +636,7 @@
       ],
       "progression": true,
       "value": {
-        "Nebula": 1,
-        "Drink": 1
+        "Nebula Drink": 1
       }
     },
     {
@@ -669,9 +646,29 @@
       ],
       "progression": true,
       "value": {
-        "Nebula": 1,
-        "Drink": 1
+        "Nebula Drink": 1
       }
+    },
+    {
+      "name": "Fascinating Grasshopper",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Playful Stones",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Quivering Jellyfish",
+      "category": [
+        "Relics"
+      ],
+      "filler": true
     },
     {
       "name": "Locker Code",
@@ -1399,8 +1396,7 @@
       "category": [
         "Sphere Limiters"
       ],
-      "progression": true,
-      "early": true
+      "progression": true
     },
     {
       "name": "Fishing Rod (unlock the Danchi area)",
@@ -1449,8 +1445,7 @@
       "category": [
         "Sphere Limiters"
       ],
-      "progression": true,
-      "early": true
+      "progression": true
     },
     {
       "name": "Jetsky (unlock the Pyramid area)",
@@ -1543,7 +1538,6 @@
       "category": [
         "Whisky Bottles"
       ],
-      "count": 0,
       "filler": true
     },
     {
@@ -1553,9 +1547,9 @@
       ],
       "filler": true,
       "value": {
-        "Whisky": 1,
-        "Bottle": 1
+        "Whisky Bottle": 1
       }
+
     },
     {
       "name": "Whisky Bottle - Grinning Helper Whisky",
@@ -1564,9 +1558,9 @@
       ],
       "filler": true,
       "value": {
-        "Whisky": 1,
-        "Bottle": 1
+        "Whisky Bottle": 1
       }
+
     },
     {
       "name": "Whisky Bottle - No Reality Whisky",
@@ -1575,9 +1569,9 @@
       ],
       "filler": true,
       "value": {
-        "Whisky": 1,
-        "Bottle": 1
+        "Whisky Bottle": 1
       }
+
     },
     {
       "name": "Whisky Bottle - An Answer Lost Whisky",
@@ -1586,9 +1580,9 @@
       ],
       "filler": true,
       "value": {
-        "Whisky": 1,
-        "Bottle": 1
+        "Whisky Bottle": 1
       }
+
     },
     {
       "name": "Whisky Bottle - Chaos Domain Whisky",
@@ -1597,9 +1591,9 @@
       ],
       "filler": true,
       "value": {
-        "Whisky": 1,
-        "Bottle": 1
+        "Whisky Bottle": 1
       }
+
     },
     {
       "name": "Whisky Bottle - A Gothic Second Whisky",
@@ -1608,9 +1602,9 @@
       ],
       "filler": true,
       "value": {
-        "Whisky": 1,
-        "Bottle": 1
+        "Whisky Bottle": 1
       }
+
     },
     {
       "name": "Whisky Bottle - Winning Devil Whisky",
@@ -1619,9 +1613,9 @@
       ],
       "filler": true,
       "value": {
-        "Whisky": 1,
-        "Bottle": 1
+        "Whisky Bottle": 1
       }
+
     },
     {
       "name": "Whisky Bottle - Evening Melancholy Whisky",
@@ -1630,9 +1624,9 @@
       ],
       "filler": true,
       "value": {
-        "Whisky": 1,
-        "Bottle": 1
+        "Whisky Bottle": 1
       }
+
     },
     {
       "name": "Whisky Bottle - Code Whisky",
@@ -1641,9 +1635,9 @@
       ],
       "filler": true,
       "value": {
-        "Whisky": 1,
-        "Bottle": 1
+        "Whisky Bottle": 1
       }
+
     },
     {
       "name": "Whisky Bottle - Dead Man's Ambitious Whisky",
@@ -1652,9 +1646,9 @@
       ],
       "filler": true,
       "value": {
-        "Whisky": 1,
-        "Bottle": 1
+        "Whisky Bottle": 1
       }
+
     },
     {
       "name": "Whisky Bottle - No Warning Whisky",
@@ -1663,9 +1657,9 @@
       ],
       "filler": true,
       "value": {
-        "Whisky": 1,
-        "Bottle": 1
+        "Whisky Bottle": 1
       }
+
     },
     {
       "name": "Whisky Bottle - Seven Spies Whisky",
@@ -1674,9 +1668,9 @@
       ],
       "filler": true,
       "value": {
-        "Whisky": 1,
-        "Bottle": 1
+        "Whisky Bottle": 1
       }
+
     },
     {
       "name": "Whisky Bottle - Mikami's Masterpiece 4 Whisky",
@@ -1685,9 +1679,9 @@
       ],
       "filler": true,
       "value": {
-        "Whisky": 1,
-        "Bottle": 1
+        "Whisky Bottle": 1
       }
+
     },
     {
       "name": "Progressive Judge Relationship",
