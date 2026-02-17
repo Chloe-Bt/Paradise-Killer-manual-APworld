@@ -52,7 +52,7 @@
         "Ghosts"
       ],
       "region": "Beach",
-      "requires": "|Imperfect Dominoes| AND |Island Sequence Momento - 020| AND |Music Track - Go! Go! Style| AND |Carving - Zealous|",
+      "requires": "|Imperfect Dominoes| AND |Island Sequence Momento - 020| AND |Music Track - Go! Go! Style|",
       "sort-key": "3"
     },
     {
@@ -1102,6 +1102,14 @@
       "sort-key": "22"
     },
     {
+      "name": "Meet Doctor Doom Jazz",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Doctor Doom Jazz Relationship:1|"
+    },
+    {
       "name": "Meet One Last Kiss",
       "category": [
         "Relationships"
@@ -1318,6 +1326,22 @@
       "sort-key": "24"
     },
     {
+      "name": "Doctor Doom Jazz relationship level 2",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Doctor Doom Jazz Relationship:2|"
+    },
+    {
+      "name": "Doctor Doom Jazz relationship level 3",
+      "category": [
+        "Relationships"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Doctor Doom Jazz Relationship:3|"
+    },
+    {
       "name": "Covetable Workers Reward",
       "category": [
         "Relics"
@@ -1404,7 +1428,7 @@
       "sort-key": "4"
     },
     {
-      "name": "Absurb Message Stones",
+      "name": "Absurd Message Stones",
       "category": [
         "Relics"
       ],
@@ -1428,7 +1452,7 @@
       "sort-key": "4"
     },
     {
-      "name": "Righteous Moserrat T-shirt",
+      "name": "Righteous Monserrat T-Shirt",
       "category": [
         "Relics"
       ],
@@ -1549,14 +1573,6 @@
     },
     {
       "name": "Descriptive River Power Station Schedule",
-      "category": [
-        "Relics"
-      ],
-      "region": "Citizen Apartments",
-      "sort-key": "4"
-    },
-    {
-      "name": "Enchanted Blue Carving",
       "category": [
         "Relics"
       ],
@@ -2786,6 +2802,24 @@
         "Starlight Skins"
       ],
       "region": "Danchi",
+      "sort-key": "8"
+    },
+    {
+      "name": "Starlight Skin - Dimensional Breakdown",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Danchi",
+      "requires": "|Imperfect Dominoes|",
+      "sort-key": "8"
+    },
+    {
+      "name": "Starlight Skin - Ancient Battlefield",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Danchi",
+      "requires": "|Imperfect Dominoes| AND |Island Sequence Momento - 020| AND |Music Track - Go! Go! Style|",
       "sort-key": "8"
     },
     {
