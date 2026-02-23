@@ -399,6 +399,13 @@
       "sort-key": "5"
     },
     {
+      "name": "Customised Space Helmet",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Council Building"
+    },
+    {
       "name": "Severed Hand",
       "category": [
         "Key Items"
@@ -451,6 +458,14 @@
       "sort-key": "10"
     },
     {
+      "name": "Henry's Safe Key",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Desolation Cell",
+      "requires": "|Progressive Henry Division Relationship:3|"
+    },
+    {
       "name": "Vampire Report",
       "category": [
         "Key Items"
@@ -458,6 +473,22 @@
       "region": "Doom Jazz's Yacht",
       "requires": "|Vampire Report|",
       "sort-key": "12"
+    },
+    {
+      "name": "Lawless Blood Dancer Eye",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Carmelina Silence Relationship:3| "
+    },
+    {
+      "name": "Flamboyant Wine",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Overworld",
+      "requires": "|Progressive Doctor Doom Jazz Relationship:3|"
     },
     {
       "name": "Death Scream Device / Strange Device",
@@ -474,6 +505,38 @@
       ],
       "region": "Reality Folding Drive",
       "sort-key": "20"
+    },
+    {
+      "name": "Corridor Key",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Secret Corridor",
+      "requires": "|Progressive Dainonigate Relationship:1|"
+    },
+    {
+      "name": "Dainonigate's Blood Sample",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Secret Corridor",
+      "requires": "|Progressive Dainonigate Relationship:1|"
+    },
+    {
+      "name": "Eyes Kiwami's Blood Vial",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Syndicate Graveyard",
+      "requires": "( |Starlight Upgrade - Pyramids| AND |Starlight Upgrade - Worship| )"
+    },
+    {
+      "name": "Grace Bloodlines' Blood Vial",
+      "category": [
+        "Key Items"
+      ],
+      "region": "Syndicate Graveyard",
+      "requires": "|Starlight Upgrade - Cosmos|"
     },
     {
       "name": "Red Crest 1/10",
@@ -836,7 +899,7 @@
       "sort-key": "8"
     },
     {
-      "name": "Nebula Drink - Aethestic Water",
+      "name": "Nebula Drink - Aesthestic Water",
       "category": [
         "Nebula Drinks"
       ],
@@ -995,6 +1058,13 @@
       ],
       "region": "Agri Fields",
       "sort-key": "2"
+    },
+    {
+      "name": "Recording 005",
+      "category": [
+        "Recordings"
+      ],
+      "region": "Beach"
     },
     {
       "name": "Recording 003",
@@ -1787,6 +1857,14 @@
       "sort-key": "8"
     },
     {
+      "name": "Chivalrous War",
+      "category": [
+        "Relics"
+      ],
+      "region": "Desolation Cell",
+      "requires": "|Progressive Grand Marshal Akiko 14 Relationship:3|"
+    },
+    {
       "name": "Vapid Book",
       "category": [
         "Relics"
@@ -1849,6 +1927,22 @@
       ],
       "region": "Opulent Ziggurat",
       "sort-key": "17"
+    },
+    {
+      "name": "Worn Glass",
+      "category": [
+        "Relics"
+      ],
+      "region": "Overworld",
+      "requires": "( |Progressive Sam Day Break Relationship:3| AND {YamlEnabled(enable_relationships)} )"
+    },
+    {
+      "name": "Enrapturing manga",
+      "category": [
+        "Relics"
+      ],
+      "region": "Overworld",
+      "requires": "( |Progressive Crimson Acid Relationship:3| AND {YamlEnabled(enable_relationships)} )"
     },
     {
       "name": "Maddening Rare Plant",
@@ -2896,6 +2990,15 @@
       "sort-key": "17"
     },
     {
+      "name": "Starlight Skin - CD Soundtrack Cover",
+      "category": [
+        "Starlight Skins"
+      ],
+      "region": "Overworld",
+      "requires": "|@Nebula Drinks:23|",
+      "sort-key": "17"
+    },
+    {
       "name": "Starlight Skin - Symbols of the Witness",
       "category": [
         "Starlight Skins"
@@ -3012,23 +3115,6 @@
       "victory": true
     },
     {
-      "name": "Lady Love Dies",
-      "category": [
-        "Victory"
-      ],
-      "requires": "|Progressive Judge Relationship:3| AND |Progressive Doctor Doom Jazz Relationship:3| AND |Progressive Grand Marshal Akiko 14 Relationship:3| AND |Progressive Carmelina Silence Relationship:3| AND |Progressive Crimson Acid Relationship:3| AND |Progressive Henry Division Relationship:3| AND |Progressive Lydia Day Break Relationship:3| AND |Progressive Sam Day Break Relationship:3| AND |Progressive The Witness To The End Relationship:3| AND |Progressive Yuri Night Relationship:3| AND |Progressive One Last Kiss Relationship:3| AND |Progressive Dainonigate Relationship:3|",
-      "victory": true
-    },
-    {
-      "name": "Whisky Bottle - Seven Spies Whisky",
-      "category": [
-        "Whisky Bottles"
-      ],
-      "region": "Agri Fields",
-      "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )",
-      "sort-key": "2"
-    },
-    {
       "name": "Whisky Bottle - Code Whisky",
       "category": [
         "Whisky Bottles"
@@ -3134,6 +3220,14 @@
       ],
       "region": "Reality Folding Drive",
       "requires": "( |Alcohol License| AND {YamlEnabled(enable_alcohol_license)} )"
+    },
+    {
+      "name": "Lady Love Dies",
+      "category": [
+        "Victory"
+      ],
+      "requires": "|Progressive Judge Relationship:3| AND |Progressive Grand Marshal Akiko 14 Relationship:3| AND |Progressive Carmelina Silence Relationship:3| AND |Progressive Crimson Acid Relationship:3| AND |Progressive Henry Division Relationship:3| AND |Progressive Lydia Day Break Relationship:3| AND |Progressive Sam Day Break Relationship:3| AND |Progressive The Witness To The End Relationship:3| AND |Progressive Yuri Night Relationship:3| AND |Progressive One Last Kiss Relationship:3| AND |Progressive Dainonigate Relationship:3| AND |Progressive Doctor Doom Jazz Relationship:3|",
+      "victory": true
     }
   ]
 }

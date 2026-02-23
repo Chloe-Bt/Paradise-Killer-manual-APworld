@@ -280,6 +280,20 @@
       "progression": true
     },
     {
+      "name": "Corridor Key",
+      "category": [
+        "Key Items"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Dainonigate's Blood Sample",
+      "category": [
+        "Key Items"
+      ],
+      "progression": true
+    },
+    {
       "name": "Double Jump",
       "category": [
         "LLD upgrades"
@@ -570,7 +584,7 @@
       }
     },
     {
-      "name": "Nebula Drink - Aethestic Water",
+      "name": "Nebula Drink - Aesthestic Water",
       "category": [
         "Nebula Drinks"
       ],
