@@ -41,6 +41,29 @@
         "How many whisky Bottles to find before winning your game."
       ]
     },
+    "max_lvl_relationship": {
+      "display_name": "Max level relationship required",
+      "type": "Range",
+      "default": 3,
+      "range_start": 1,
+      "range_end": 5,
+      "group": "Archipelago Length",
+      "description": [
+        "What is the maximum level of relationship your relationships goal needs before winning your game."
+      ]
+    },
+    "number_max_relationships": {
+      "display_name": "How many max level relationship required",
+      "type": "Range",
+      "default": 5,
+      "range_start": 1,
+      "range_end": 10,
+      "group": "Archipelago Length",
+      "description": [
+        "How many maximum level relationship do you need to win your game.",
+        "Judge & Dainonigate relationship only have 1 progressive relationship and do not count for this purpose."
+      ]
+    },
     "enable_nebula_drinks": {
       "display_name": "Nebula Drink Locations",
       "type": "Toggle",
@@ -119,7 +142,7 @@
       "default": true,
       "group": "Randomizer Selection",
       "description": [
-        "Enable the various relationships with all NPC's as items and locations. This option is forced to true and (progressive) if you selected the 'Lady Love Dies' goal."
+        "Enable the various relationships with all NPC's as items and locations."
       ]
     },
     "enable_alcohol_license": {
