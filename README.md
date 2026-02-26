@@ -16,7 +16,7 @@ Manual APWorld repository for the game Paradise Killer by Kaizen Game Works.
 | ----- | ----------- | ------- |
 | Lady Soda Dies | get X amount of nebula soda drinks send your way, this differs) | 1-23 |
 | Lady Whisky DIes | get X amount of whisky bottles send your way | 1-13 |
-| Lady Love Dies | ~~get max relationship with everyone~~ currently not properly implemented, do not choose) | How many max relationships |
+| Lady Love Dies | get X amount of level Y relationships | 1-5 relationship levels, for 1-10 amount of NPC's  |
 
 ## What are locations
 - Nebula Drink vending machines
@@ -70,7 +70,7 @@ Due to the enormous sphere 1-3 this game has, I have implemented optional (but h
 - **Alcohol License**: allows you to access the Whisky bottles.
 - **Shinji Locations**: allows you to talk to Shinji for checks.
 - **Mapping Requirements**: every region of the map (mostly as defined as the regions in-game map) has a lock of some kind that requires a key item to unlock. This locks everything except the Footbaths & NPC's to the key item of the region they inhibit. (**Highly recommended**)
-- **Progressive relationships**: (it currently has 3 progressive relationships in place, but this is not correct for all different NPC's, not properly implemented yet)
+- **Progressive relationships**: 
 
 ## Possible future changes/additions
 - Blood Crystals (unlikely, feels inherently incomptible with Manuals)
