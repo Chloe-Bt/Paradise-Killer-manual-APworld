@@ -15,7 +15,7 @@ Manual APWorld repository for the game Paradise Killer by Kaizen Game Works.
 | Goals | Description | Options |
 | ----- | ----------- | ------- |
 | Lady Soda Dies | get X amount of nebula soda drinks send your way, this differs) | 1-23 |
-| Lady Whisky DIes | get X amount of whisky bottles send your way | 1-13 |
+| Lady Whisky Dies | get X amount of whisky bottles send your way | 1-13 |
 | Lady Love Dies | get X amount of level Y relationships | 1-5 relationship levels, for 1-10 amount of NPC's  |
 
 ## What are locations
